@@ -2,3 +2,4 @@
 /icl.xlsx
 /.cache/
 __pycache__/
+.~lock.*#

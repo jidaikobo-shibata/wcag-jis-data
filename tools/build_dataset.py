@@ -129,7 +129,7 @@ def write_catalog(path: Path, rows: list[dict], items: list[dict], names: list[d
                 "wcag20_initial_ja": row["labels"][2] if row["labels"][2] not in (None, "-") else "",
                 "wcag20_revised_ja": row["labels"][3] if row["labels"][3] not in (None, "-") else "",
                 "wcag21_ja": row["labels"][4] if row["labels"][4] not in (None, "-") else "",
-                "planned_jis_ja": row["labels"][5] if row["labels"][5] not in (None, "-") else "",
+                "planned_jis_ja": name_index.get((item_key, None, "planned_formatted_name"), ""),
                 "wcag22_url": f"{SOURCE_FILES['wcag22-en.html'][0]}#{item['anchor']}",
                 "waic_url": f"{SOURCE_FILES['wcag22-ja.html'][0]}#{item['anchor']}",
                 "workbook_row": row["row"],
@@ -219,6 +219,10 @@ def build(source_dir: Path, workbook_path: Path) -> None:
         {"id": "waic-jis2016-guide", "title": "JIS X 8341-3:2016 解説", "publisher": "WAIC",
          "url": "https://waic.jp/docs/jis2016/understanding/",
          "note": "JIS X 8341-3:2016 と WCAG 2.0 の一致規格という関係の根拠"},
+        {"id": "project-name-format-rule", "title": "予定JIS名称の表記規則", "publisher": "本プロジェクト",
+         "recorded_on": "2026-09-25", "target_edition_hint": "2027（未確定）",
+         "rule": "原則・ガイドライン・達成基準の名称に、それぞれ『の原則』『のガイドライン』『の達成基準』を付ける",
+         "status": "editorial_rule; not_official_jis_text"},
     ]
 
     items, names, texts, relations = [], [], [], []
@@ -344,6 +348,17 @@ def build(source_dir: Path, workbook_path: Path) -> None:
                           "workbook_column": column_key,
                           "source_id": "criteria-workbook",
                           "source_cell": f"シート1!{chr(ord('B') + column_index)}{row['row']}"})
+            if column_key == "planned_jis" and value not in (None, "-"):
+                suffix = {"principle": "の原則", "guideline": "のガイドライン",
+                          "success_criterion": "の達成基準"}.get(kind)
+                if suffix is None:
+                    raise ValueError(f"No suffix rule for {number}: {kind}")
+                names.append({"item_key": item22, "language": "ja", "value": value + suffix,
+                              "status": "planned_formatted_name", "target_standard": "JIS X 8341-3",
+                              "target_edition_hint": "2027（未確定）",
+                              "source_id": "project-name-format-rule",
+                              "derived_from_source_id": "criteria-workbook",
+                              "derived_from_source_cell": f"シート1!G{row['row']}"})
 
     # Check every reference after all items have been collected.
     item_keys = {item["key"] for item in items}
