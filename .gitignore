@@ -1,2 +1,4 @@
 /criteria.xlsx
 /icl.xlsx
+/.cache/
+__pycache__/

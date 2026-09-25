@@ -1,0 +1,58 @@
+[
+  {
+    "id": "w3c-wcag22-json",
+    "title": "WCAG 2.2 JSON",
+    "publisher": "W3C",
+    "url": "https://www.w3.org/WAI/WCAG22/wcag.json",
+    "sha256": "3a034865a879a7d874b60ff2aec7f430cf37bc1597a1e00985680fd80ef5cf75",
+    "retrieved": "2026-09-25",
+    "last_modified": "2026-09-03T15:17:58Z",
+    "license_url": "https://github.com/w3c/wcag/tree/main/11ty/json#permission-to-use-with-attribution"
+  },
+  {
+    "id": "w3c-wcag21-json",
+    "title": "WCAG 2.1 JSON",
+    "publisher": "W3C",
+    "url": "https://www.w3.org/WAI/WCAG21/wcag.json",
+    "sha256": "fc9f2e8a94421fc305dced3ec4020fde088572493d44da70789ceb6f775bb4d7",
+    "retrieved": "2026-09-25",
+    "last_modified": "2026-09-03T15:25:16Z",
+    "license_url": "https://github.com/w3c/wcag/tree/main/11ty/json#permission-to-use-with-attribution"
+  },
+  {
+    "id": "w3c-wcag22-rec",
+    "title": "WCAG 2.2 Recommendation, 12 December 2024",
+    "publisher": "W3C",
+    "url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+    "sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
+    "retrieved": "2026-09-25",
+    "license_url": "https://www.w3.org/copyright/document-license/"
+  },
+  {
+    "id": "waic-wcag22-ja",
+    "title": "WCAG 2.2 日本語訳",
+    "publisher": "WAIC翻訳ワーキンググループ",
+    "url": "https://waic.jp/translations/WCAG22/",
+    "sha256": "a1d56070bfd9b98f5183b7db8dd08082e274305b52572386bb42bc70cba3466b",
+    "retrieved": "2026-09-25",
+    "last_modified": "2026-06-08T00:47:03Z",
+    "license_url": "https://waic.jp/license-for-translated-documents/",
+    "status": "参考訳。正式版はW3Cの英語版"
+  },
+  {
+    "id": "criteria-workbook",
+    "title": "達成基準名称集（手元の入力資料）",
+    "publisher": "未確認",
+    "file_name": "criteria.xlsx",
+    "sha256": "dde704f349397cb224a33d5bf703a73d6318d2ce209d828edc7a643671c20d4b",
+    "retrieved": "2026-09-25",
+    "publication_status": "private_input; provenance_unverified"
+  },
+  {
+    "id": "waic-jis2016-guide",
+    "title": "JIS X 8341-3:2016 解説",
+    "publisher": "WAIC",
+    "url": "https://waic.jp/docs/jis2016/understanding/",
+    "note": "JIS X 8341-3:2016 と WCAG 2.0 の一致規格という関係の根拠"
+  }
+]

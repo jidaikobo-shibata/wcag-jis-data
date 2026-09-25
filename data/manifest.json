@@ -1,0 +1,20 @@
+{
+  "dataset_version": "0.1.0",
+  "generated_on": "2026-09-25",
+  "status": "draft_local; not_reviewed_for_public_release",
+  "counts": {
+    "workbook_rows": 117,
+    "items": 378,
+    "names": 1031,
+    "texts": 329,
+    "relations": 249
+  },
+  "files": [
+    "sources.json",
+    "items.json",
+    "names.json",
+    "texts.json",
+    "relations.json",
+    "catalog.csv"
+  ]
+}
