@@ -18,6 +18,7 @@ DATA = ROOT / "data"
 NUMBER_PATTERN = re.compile(r"[1-4]\.\d+\.\d+\Z")
 EDITION_ORDER = {"wcag:2.2": 0, "wcag:2.1": 1, "wcag:2.0": 2,
                  "jis-x-8341-3:2016": 3}
+EDITIONS = tuple(EDITION_ORDER)
 RELATION_LABELS = {
     "same_number_in_later_edition": "後の版でも同じ番号（本文の同一性は未確認）",
     "removed_in_later_edition": "後の版で廃止",
@@ -107,6 +108,48 @@ def lookup(number: str, data_dir: Path = DATA) -> dict:
     }
 
 
+def compact_lookup(result: dict, edition: str, language: str) -> dict:
+    item_key = f"{edition}:{result['number']}"
+    item = next((record for record in result["editions"]
+                 if record["key"] == item_key), None)
+    if item is None:
+        raise LookupError(f"達成基準 {result['number']} は {edition} にありません")
+
+    names = [record for record in item["names"]
+             if record["language"] == language]
+    official_values = {record["value"] for record in names
+                       if record["status"] == "official"}
+    names = [record for record in names
+             if not (record["status"] == "workbook_label"
+                     and record["value"] in official_values)]
+    texts = [record for record in item["texts"]
+             if record["language"] == language]
+    source_ids = {record["source_id"] for record in names + texts}
+    if not source_ids:
+        source_ids.add(item["source_id"])
+
+    return {
+        "number": result["number"],
+        "item_key": item_key,
+        "standard": item["standard"],
+        "edition": item["edition"],
+        "status": item["status"],
+        "level": item["level"],
+        "language": language,
+        "names": [{key: record[key] for key in
+                   ("value", "status", "source_id", "source_ref")
+                   if key in record} for record in names],
+        "texts": [{key: record[key] for key in
+                   ("text", "source_id", "source_ref")
+                   if key in record} for record in texts],
+        "sources": [{key: source[key] for key in
+                    ("id", "title", "publisher", "url", "status",
+                     "publication_status", "license_url") if key in source}
+                    for source_id, source in result["sources"].items()
+                    if source_id in source_ids],
+    }
+
+
 def format_text(result: dict) -> str:
     lines = [f"達成基準 {result['number']}"]
     for edition in result["editions"]:
@@ -154,14 +197,27 @@ def format_text(result: dict) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("number", help="達成基準番号（例: 2.4.6）")
-    parser.add_argument("--format", choices=("text", "json"), default="text")
+    parser.add_argument("--format", choices=("text", "json", "compact-json"),
+                        default="text")
+    parser.add_argument("--edition", choices=EDITIONS,
+                        help="compact-jsonで取得する規格版")
+    parser.add_argument("--language", choices=("ja", "en"),
+                        help="compact-jsonで取得する言語")
     args = parser.parse_args()
+    if args.format == "compact-json":
+        if not args.edition or not args.language:
+            parser.error("compact-jsonには--editionと--languageの両方が必要です")
+    elif args.edition or args.language:
+        parser.error("--editionと--languageはcompact-jsonで指定してください")
     try:
         result = lookup(args.number)
+        if args.format == "compact-json":
+            result = compact_lookup(result, args.edition, args.language)
     except (ValueError, LookupError) as error:
         parser.exit(2, f"{error}\n")
-    if args.format == "json":
-        json.dump(result, sys.stdout, ensure_ascii=False, indent=2)
+    if args.format in ("json", "compact-json"):
+        options = {"separators": (",", ":")} if args.format == "compact-json" else {"indent": 2}
+        json.dump(result, sys.stdout, ensure_ascii=False, **options)
         print()
     else:
         print(format_text(result))

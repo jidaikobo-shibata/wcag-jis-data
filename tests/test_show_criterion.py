@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
-from show_criterion import lookup  # noqa: E402
+from show_criterion import compact_lookup, lookup  # noqa: E402
 
 
 class ShowCriterionTests(unittest.TestCase):
@@ -48,6 +48,38 @@ class ShowCriterionTests(unittest.TestCase):
         invalid = subprocess.run(command + ["2.4"], capture_output=True, text=True)
         self.assertEqual(invalid.returncode, 2)
         self.assertIn("達成基準番号", invalid.stderr)
+
+    def test_compact_lookup_preserves_translation_and_source(self) -> None:
+        result = compact_lookup(lookup("2.4.6"), "wcag:2.2", "ja")
+        self.assertEqual(result["item_key"], "wcag:2.2:2.4.6")
+        self.assertEqual(result["level"], "AA")
+        self.assertEqual(result["names"][0]["status"], "reference_translation")
+        self.assertEqual(result["texts"][0]["text"],
+                         "見出し及びラベルは、主題又は目的を説明している。")
+        self.assertTrue(result["texts"][0]["source_ref"].startswith("https://waic.jp/"))
+        self.assertEqual(result["sources"][0]["status"], "参考訳。正式版はW3Cの英語版")
+        self.assertNotIn("understanding", result)
+        self.assertNotIn("relations", result)
+
+    def test_compact_lookup_does_not_invent_jis_text_or_missing_edition(self) -> None:
+        result = compact_lookup(lookup("2.4.6"), "jis-x-8341-3:2016", "ja")
+        self.assertEqual(result["texts"], [])
+        self.assertEqual(result["names"][0]["status"], "workbook_label")
+        self.assertEqual(result["sources"][0]["publication_status"],
+                         "private_input; provenance_unverified")
+        with self.assertRaises(LookupError):
+            compact_lookup(lookup("2.5.8"), "jis-x-8341-3:2016", "ja")
+
+    def test_cli_compact_json_requires_edition_and_language(self) -> None:
+        command = [sys.executable, str(ROOT / "tools/show_criterion.py")]
+        result = subprocess.run(command + ["2.4.6", "--format", "compact-json",
+                                           "--edition", "wcag:2.2", "--language", "ja"],
+                                capture_output=True, text=True, check=True)
+        self.assertEqual(json.loads(result.stdout)["language"], "ja")
+        missing = subprocess.run(command + ["2.4.6", "--format", "compact-json"],
+                                 capture_output=True, text=True)
+        self.assertEqual(missing.returncode, 2)
+        self.assertIn("--edition", missing.stderr)
 
 
 if __name__ == "__main__":
