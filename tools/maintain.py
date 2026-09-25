@@ -49,6 +49,8 @@ def check(target: Path) -> None:
         raise ValueError(f"Generated content differs: {changed[:10]}")
     subprocess.run([sys.executable, str(ROOT / "tools/validate_dataset.py")], check=True)
     subprocess.run([sys.executable, str(ROOT / "tools/validate_understanding.py")], check=True)
+    subprocess.run([sys.executable, "-m", "unittest", "discover", "-s", "tests"],
+                   cwd=ROOT, check=True)
     print("Reproducible: generated files match the stored dataset")
 
 

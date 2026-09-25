@@ -41,6 +41,17 @@ python3 -m venv .venv
 
 WCAG 2.2解説書は、[日英の資料スナップショット](data/understanding/README.md)として別に収録しました。翻訳元の版、画像、出典、公開前の確認事項はそちらに記載しています。
 
+## 達成基準を調べる
+
+番号を指定すると、各版の名称・状態、収録済みの本文、版間の対応関係、日英解説書の出典URLをまとめて表示できます。JSON形式も選べます。
+
+```bash
+.venv/bin/python tools/show_criterion.py 2.4.6
+.venv/bin/python tools/show_criterion.py 2.4.6 --format json
+```
+
+端末表示の本文はHTMLから抽出したプレーンテキストです。箇条書きなどの構造と正確な文言を確認するときは、併記された原文のURLを参照してください。JISの名称は手元資料由来で、正式文書との照合は未完了です。
+
 ## 参照先
 
 - [WCAG 2.2（W3C）](https://www.w3.org/TR/WCAG22/)

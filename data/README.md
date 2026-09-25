@@ -13,6 +13,8 @@
 
 WCAG 2.2解説書の日英HTMLと画像URIは[understanding/README.md](understanding/README.md)を参照してください。規格本文の`texts.json`とは別の、参考資料のスナップショットです。
 
+番号から関連情報をまとめて確認するには、ルートREADMEに記載した `tools/show_criterion.py` を使えます。このツールは既存データを読み取るだけで、データ本体は変更しません。
+
 ## 収録範囲
 
 - WCAG 2.2：117項目。達成基準は現行86件、廃止された4.1.1が1件。英語・日本語の本文を収録。
