@@ -4,6 +4,8 @@
 
 `wcag22/manifest.json` に取得元リポジトリのコミットID、`documents.json` にページとWCAG項目の対応・ハッシュ、`assets.json` に画像の参照元URI・ハッシュ・参照ページを記録しています。英語原文はWAICが翻訳元として保管する版であり、現在公開中のW3C解説書と同じ版であるとは限りません。WAICの[原文保管リポジトリ](https://github.com/waic/w3c-wcag)は、解説書のW3C側の元コミットを `8ce579b` と記載しています。
 
+日本語訳を取得したコミット `4c9eeeec7f284a946e4dfa8df605d813e90e8589` には、WAICの [`wcag22-202609` タグ](https://github.com/waic/wcag22/tree/wcag22-202609)が付いています。ここでいう「公開前のドラフト」は、このリポジトリのデータセットに残る権利・内容の確認状況を指します。
+
 ## 利用条件と公開前の確認
 
 - WAIC訳には[WAICの翻訳文書の利用条件](https://waic.jp/license-for-translated-documents/)が適用されます。文書URL、翻訳者、文書のステータス、正式版がW3C英語版である旨を表示してください。原文の訳注を残して全文転載する場合、WAICは文書URLの明記でよいと説明しています。

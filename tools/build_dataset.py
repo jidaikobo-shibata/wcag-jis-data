@@ -12,7 +12,6 @@ from pathlib import Path
 from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
-from openpyxl import load_workbook
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -164,29 +163,6 @@ def w3c_tree(data: dict) -> dict[str, tuple[str, str | None, dict]]:
             for criterion in guideline["successcriteria"]:
                 tree[criterion["num"]] = ("success_criterion", gnum, criterion)
     return tree
-
-
-def workbook_rows(path: Path) -> list[dict]:
-    workbook = load_workbook(path, data_only=True, read_only=True)
-    sheet = workbook.active
-    rows = []
-    for number, values in enumerate(sheet.iter_rows(values_only=True), 1):
-        if number == 1 or values[0] is None:
-            continue
-        rows.append({"row": number, "number": normalized_id(values[0]),
-                     "raw_number": values[0], "labels": list(values[1:6])})
-    if len(rows) != 117 or len({r["number"] for r in rows}) != 117:
-        raise ValueError("Workbook must contain 117 unique reference rows")
-    return rows
-
-
-def export_public_input(workbook_path: Path, target: Path) -> None:
-    if digest(workbook_path.read_bytes()) != WORKBOOK_HASH:
-        raise ValueError("criteria.xlsx differs from the reviewed copy")
-    rows = workbook_rows(workbook_path)
-    write_json(target, {"source_workbook_sha256": WORKBOOK_HASH,
-                        "columns": [column[0] for column in WORKBOOK_COLUMNS],
-                        "rows": rows})
 
 
 def public_rows(path: Path) -> list[dict]:
@@ -407,14 +383,8 @@ def main() -> None:
     parser.add_argument("--source-dir", type=Path, default=ROOT / ".cache")
     parser.add_argument("--input", type=Path, default=PUBLIC_INPUT)
     parser.add_argument("--output-dir", type=Path, default=ROOT / "data")
-    parser.add_argument("--export-public-input", action="store_true",
-                        help="extract only approved columns from local criteria.xlsx")
-    parser.add_argument("--criteria", type=Path, default=ROOT / "criteria.xlsx")
     parser.add_argument("--fetch", action="store_true", help="download pinned official sources into source-dir")
     args = parser.parse_args()
-    if args.export_public_input:
-        export_public_input(args.criteria, args.input)
-        return
     if args.fetch:
         fetch_sources(args.source_dir)
     build(args.source_dir, args.input, args.output_dir)

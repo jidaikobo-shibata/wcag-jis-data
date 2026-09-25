@@ -1,6 +1,6 @@
 # データの読み方
 
-このディレクトリは、2026-09-25に取得した公式資料と、手元の資料から公開可能な列だけを抽出した `inputs/criteria-public.json` から生成したドラフトです。[manifest.json](manifest.json)に件数を記録しています。原則・ガイドライン・達成基準・適合要件の117項目を、[catalog.csv](catalog.csv)で一覧できます。CSVの空欄の理由は `names.json` の `missing_marker` を参照してください。
+このディレクトリは、2026-09-25に取得した公式資料と、手元の資料から未公開の予定名称を除いて抽出した `inputs/criteria-public.json` から生成したドラフトです。[manifest.json](manifest.json)に件数を記録しています。原則・ガイドライン・達成基準・適合要件の117項目を、[catalog.csv](catalog.csv)で一覧できます。CSVの空欄の理由は `names.json` の `missing_marker` を参照してください。
 
 | ファイル | 内容 |
 | --- | --- |
@@ -22,7 +22,6 @@ WCAG 2.2解説書の日英HTMLと画像URIは[understanding/README.md](understan
 - WCAG 2.0：原則・ガイドライン・達成基準77項目。識別子、レベル、Excel由来の旧訳を収録。原文本文と適合要件の節は未収録。
 - JIS X 8341-3:2016：Excelに名称がある89項目。本文は未収録。名称と項目の存在は手元の資料に依拠しており、JIS本文との照合は未完了。
 - 未公開の予定名称は収録しない。元資料と復元用データはGit管理対象外に保管する。
-- `icl.xlsx` の確認条件と検査手順は今回の参照データには未収録。
 
 `4.1.1`はWCAG 2.2の資料に廃止項目として掲載されるため、項目自体を残し、`obsolete_in_2.2`にしています。現行86件の集計からは除いてください。
 
@@ -30,17 +29,21 @@ WCAG 2.2解説書の日英HTMLと画像URIは[understanding/README.md](understan
 
 W3Cの[英語原文](https://www.w3.org/TR/WCAG22/)が正式版です。[WAICの日本語訳](https://waic.jp/translations/WCAG22/)は参考訳で、翻訳者はWAIC翻訳ワーキンググループです。日本語訳の利用条件は[WAICの説明](https://waic.jp/license-for-translated-documents/)に従ってください。W3C JSONの利用条件は[W3Cリポジトリ](https://github.com/w3c/wcag/tree/main/11ty/json#permission-to-use-with-attribution)を参照してください。
 
+`texts.json` の日本語本文は、原文冒頭の訳注を含まない断片です。再利用するときは、各レコードの `source_ref` を出典として示し、翻訳者、参考訳であること、正式版はW3Cの英語版であることを断片とともに表示してください。利用条件は上記のWAICの説明を参照してください。表示例：
+
+> 出典：[WAIC「WCAG 2.2 日本語訳」](https://waic.jp/translations/WCAG22/)（翻訳：WAIC翻訳ワーキンググループ、参考訳）。正式版は[W3Cの英語版](https://www.w3.org/TR/WCAG22/)です。利用条件は[WAICの説明](https://waic.jp/license-for-translated-documents/)を参照してください。
+
 `texts.json` の本文はHTML断片です。画面に表示するアプリでは信頼済みHTMLとして直接挿入せず、必要なタグだけを許すサニタイズを行ってください。リンクを含む断片は元文書のURLと併せて扱ってください。
 
-このドラフトには、出典を未確認のExcelから転記した名称が含まれます。GitHubで公開する前に、`criteria.xlsx` の作成元、JISの名称、転載範囲を確認してください。
+このドラフトには、出典を未確認の手元のExcelから転記した名称が含まれます。元のExcelファイルはこのリポジトリに置いていません。[JISCのFAQ「JISの引用・転載について」](https://www.jisc.go.jp/qa/a2-1.html)は、JISの規格番号・規格名称は利用許諾なしに記載できると説明しています。本データセットにはJIS X 8341-3:2016の達成基準ごとの名称も含まれますが、FAQがそれらまで明示的に対象としているとは断定できません。JIS本文は収録していません。達成基準名の公開データとしての利用可否と権利者への確認は未完了です。JISCによれば著作権の帰属は規格によって異なり、引用・転載の相談は同FAQが案内する窓口から始められます。GitHubで公開する前に、JIS名称の出典・転載範囲を確認してください。
 
 ## 再生成
 
-Python 3、`beautifulsoup4`、`openpyxl`を使います。ソースはスクリプト内のSHA-256に固定しているため、公開元が更新された場合は自動的に取り込まず停止します。更新するときは差分と出典を確認し、チェックサムを意図的に改めてください。
+Python 3と`beautifulsoup4`を使います。ソースはスクリプト内のSHA-256に固定しているため、公開元が更新された場合は自動的に取り込まず停止します。更新するときは差分と出典を確認し、チェックサムを意図的に改めてください。
 
 ```bash
 python3 tools/build_dataset.py --fetch
 python3 tools/validate_dataset.py
 ```
 
-通常の再生成には `criteria.xlsx` は不要です。`--fetch` で取得する公式資料はGitから除外された `.cache/` に保存されます。規格本体と解説書をまとめて扱う場合は、ルートREADMEの `tools/maintain.py` を使ってください。
+`--fetch` で取得する公式資料はGitから除外された `.cache/` に保存されます。規格本体と解説書をまとめて扱う場合は、ルートREADMEの `tools/maintain.py` を使ってください。
