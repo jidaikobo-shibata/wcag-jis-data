@@ -1,0 +1,35 @@
+{
+  "collection": "WCAG 2.2 Understanding",
+  "status": "draft_local; public_release_review_pending",
+  "retrieved_on": "2026-09-25",
+  "sources": [
+    {
+      "name": "waic/wcag22",
+      "commit": "4c9eeeec7f284a946e4dfa8df605d813e90e8589",
+      "subdir": "understanding",
+      "published_base": "https://waic.jp/translations/WCAG22/Understanding/",
+      "license_url": "https://waic.jp/license-for-translated-documents/",
+      "language": "ja"
+    },
+    {
+      "name": "waic/w3c-wcag",
+      "commit": "9b5c06adee5cb4a1ad403a410165140b6d77b24c",
+      "subdir": "wcag22/understanding",
+      "published_base": "https://www.w3.org/WAI/WCAG22/Understanding/",
+      "license_url": "https://www.w3.org/copyright/document-license/",
+      "language": "en",
+      "w3c_origin_commit": "8ce579b"
+    }
+  ],
+  "counts": {
+    "documents": 218,
+    "image_references": 186,
+    "documents_per_language": 109
+  },
+  "notes": [
+    "Original HTML bytes are stored unchanged; referenced image bytes are not stored.",
+    "Remote analytics pixels, external media and page-wide styles/scripts are not bundled.",
+    "The Japanese translation is informative; the W3C English text is authoritative.",
+    "Local image references in source HTML will not resolve in this dataset; use assets.json URLs."
+  ]
+}

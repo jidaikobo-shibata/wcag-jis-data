@@ -1,0 +1,2394 @@
+[
+  {
+    "language": "ja",
+    "filename": "abbreviations.html",
+    "item_key": "wcag:2.2:3.1.4",
+    "path": "data/understanding/wcag22/ja/abbreviations.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/abbreviations.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/abbreviations.html",
+    "sha256": "1603f8d8982805c7a9b1289b96dec6891a23dfa8beeb1a87a980def3fb06a8bd",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "about.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/about.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/about.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/about.html",
+    "sha256": "728429b957934f221de705396c340a4fe7d8a5456a55b8da64ce30d5232275b3",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "accessible-authentication-enhanced.html",
+    "item_key": "wcag:2.2:3.3.9",
+    "path": "data/understanding/wcag22/ja/accessible-authentication-enhanced.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/accessible-authentication-enhanced.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/accessible-authentication-enhanced.html",
+    "sha256": "d431c0c5858fd7ecaed965fc8045de6a8918f12344743c33612a003030f2e597",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "accessible-authentication-minimum.html",
+    "item_key": "wcag:2.2:3.3.8",
+    "path": "data/understanding/wcag22/ja/accessible-authentication-minimum.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/accessible-authentication-minimum.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/accessible-authentication-minimum.html",
+    "sha256": "450293567c64f66169eb69f824043e9aaf094920eac21df85cefcc59b4015f51",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "adaptable.html",
+    "item_key": "wcag:2.2:1.3",
+    "path": "data/understanding/wcag22/ja/adaptable.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/adaptable.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/adaptable.html",
+    "sha256": "e9bdb67522a92d391467badcc71fa2a70b3109ad3b42e0afd51162625dfd001a",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "animation-from-interactions.html",
+    "item_key": "wcag:2.2:2.3.3",
+    "path": "data/understanding/wcag22/ja/animation-from-interactions.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/animation-from-interactions.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/animation-from-interactions.html",
+    "sha256": "b538f0f67c72150faa47151eb83c9778526d022a4ddc84dd126b63cdec04c10e",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "audio-control.html",
+    "item_key": "wcag:2.2:1.4.2",
+    "path": "data/understanding/wcag22/ja/audio-control.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/audio-control.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/audio-control.html",
+    "sha256": "8640a6e632042d0e196ccdd46a047714fdddd5f730707d50f54334e35adc7a2b",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "audio-description-or-media-alternative-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.3",
+    "path": "data/understanding/wcag22/ja/audio-description-or-media-alternative-prerecorded.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/audio-description-or-media-alternative-prerecorded.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded.html",
+    "sha256": "ec75b01fcf3af931f330d514c5c8bf67403caedd841264ce102096b52fc5745e",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "audio-description-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.5",
+    "path": "data/understanding/wcag22/ja/audio-description-prerecorded.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/audio-description-prerecorded.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/audio-description-prerecorded.html",
+    "sha256": "137903f737096d77d9294d05c4aa6420adc27c867eb7423d305c209ddbef320e",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "audio-only-and-video-only-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.1",
+    "path": "data/understanding/wcag22/ja/audio-only-and-video-only-prerecorded.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/audio-only-and-video-only-prerecorded.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html",
+    "sha256": "0b7456996a57ddab33d0736a20b9c00d3b0de7f7f26ea24f6974cd24c643cbb2",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "audio-only-live.html",
+    "item_key": "wcag:2.2:1.2.9",
+    "path": "data/understanding/wcag22/ja/audio-only-live.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/audio-only-live.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/audio-only-live.html",
+    "sha256": "7edd2af54edcd1801249c94a6a33e217dabcaa87d47dd7492e8e85d7450b7b51",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "bypass-blocks.html",
+    "item_key": "wcag:2.2:2.4.1",
+    "path": "data/understanding/wcag22/ja/bypass-blocks.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/bypass-blocks.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/bypass-blocks.html",
+    "sha256": "b5e204fcd929c0a089fe9729e9821136f40341c4b02e534dae627f7c4c7a5b58",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "captions-live.html",
+    "item_key": "wcag:2.2:1.2.4",
+    "path": "data/understanding/wcag22/ja/captions-live.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/captions-live.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/captions-live.html",
+    "sha256": "5309adf1e1eb7092e250cccaec6963ef46e7321856bf8d69a9b501db3208b7a2",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "captions-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.2",
+    "path": "data/understanding/wcag22/ja/captions-prerecorded.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/captions-prerecorded.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/captions-prerecorded.html",
+    "sha256": "27e744116439a208ac738f07456ab7651295ced6b240a5fa9b1b6abbd19893b0",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "change-on-request.html",
+    "item_key": "wcag:2.2:3.2.5",
+    "path": "data/understanding/wcag22/ja/change-on-request.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/change-on-request.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/change-on-request.html",
+    "sha256": "84c9b1dda83c6af9b7b9ea552722aec0b5f5f2728720dee96b37192597b36c73",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "character-key-shortcuts.html",
+    "item_key": "wcag:2.2:2.1.4",
+    "path": "data/understanding/wcag22/ja/character-key-shortcuts.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/character-key-shortcuts.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/character-key-shortcuts.html",
+    "sha256": "d4de86bd19a7b2f041f66d3bbab05155309b00caf11c5e2f13267a9ef0f032c8",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "compatible.html",
+    "item_key": "wcag:2.2:4.1",
+    "path": "data/understanding/wcag22/ja/compatible.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/compatible.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/compatible.html",
+    "sha256": "064031c62962e50c279d4a3cb228c72a8b4a41204d42790ddc535078c305d41c",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "concurrent-input-mechanisms.html",
+    "item_key": "wcag:2.2:2.5.6",
+    "path": "data/understanding/wcag22/ja/concurrent-input-mechanisms.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/concurrent-input-mechanisms.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/concurrent-input-mechanisms.html",
+    "sha256": "7686329a04ee9737fc9d2223091d1e9054a86903b13b59dc5612e92db17a6a3f",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "conformance.html",
+    "item_key": "wcag:2.2:5",
+    "path": "data/understanding/wcag22/ja/conformance.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/conformance.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/conformance.html",
+    "sha256": "eba5b3def0dfe7aa21f8a521a740825eaf20a27811bc61776f0de52052130469",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "consistent-help.html",
+    "item_key": "wcag:2.2:3.2.6",
+    "path": "data/understanding/wcag22/ja/consistent-help.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/consistent-help.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/consistent-help.html",
+    "sha256": "05cb5527a17b464f6f7798e3e88f73a62cb9d483be4a5b7e20d1c9162da8d4a1",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "consistent-identification.html",
+    "item_key": "wcag:2.2:3.2.4",
+    "path": "data/understanding/wcag22/ja/consistent-identification.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/consistent-identification.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/consistent-identification.html",
+    "sha256": "e14de892c4c4f84f4fff62fb8330c82fe4ea3efc6d460ab8df93412e29847e3e",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "consistent-navigation.html",
+    "item_key": "wcag:2.2:3.2.3",
+    "path": "data/understanding/wcag22/ja/consistent-navigation.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/consistent-navigation.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/consistent-navigation.html",
+    "sha256": "101935a78463c51cb1e537d59a3a869aaea5d47efc473d254d80e58363a6e223",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "content-on-hover-or-focus.html",
+    "item_key": "wcag:2.2:1.4.13",
+    "path": "data/understanding/wcag22/ja/content-on-hover-or-focus.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/content-on-hover-or-focus.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/content-on-hover-or-focus.html",
+    "sha256": "540a51abccf5aaa051fbd999ae897d08ca1768077d7b376fea2202891e28eb32",
+    "image_paths": [
+      "img/button-focus-indicator.png",
+      "img/button-pointer-below-tooltip.png",
+      "img/button-pointer-on-tooltip.png",
+      "img/button-pointer-tooltip.png",
+      "img/button-pointer.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "contrast-enhanced.html",
+    "item_key": "wcag:2.2:1.4.6",
+    "path": "data/understanding/wcag22/ja/contrast-enhanced.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/contrast-enhanced.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/contrast-enhanced.html",
+    "sha256": "b46de788b7501f776728c1064d5fe5a1fdc0ff8c7e594b00aab7f121acddcb61",
+    "image_paths": [
+      "img/inactive-button.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "contrast-minimum.html",
+    "item_key": "wcag:2.2:1.4.3",
+    "path": "data/understanding/wcag22/ja/contrast-minimum.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/contrast-minimum.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/contrast-minimum.html",
+    "sha256": "0da72267a5239476c32dfeeabdca5bbafd4a00797814c500496cb0d2dc66a96f",
+    "image_paths": [
+      "img/inactive-button.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "distinguishable.html",
+    "item_key": "wcag:2.2:1.4",
+    "path": "data/understanding/wcag22/ja/distinguishable.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/distinguishable.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/distinguishable.html",
+    "sha256": "ab565a85ee8d50710ce590abc0ce14fe68c30d0f1226f280874baca550a87b4f",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "documenting-accessibility-support.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/documenting-accessibility-support.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/documenting-accessibility-support.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/documenting-accessibility-support.html",
+    "sha256": "7de62bf145ede752c11970d3556f6142adf70566d24ee6a233f46158bf3a3d6e",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "dragging-movements.html",
+    "item_key": "wcag:2.2:2.5.7",
+    "path": "data/understanding/wcag22/ja/dragging-movements.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/dragging-movements.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/dragging-movements.html",
+    "sha256": "c38eb6e13d9bc0af4d145486937df19c929f81a14fb855cfb98ddfa29d42c201",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "enough-time.html",
+    "item_key": "wcag:2.2:2.2",
+    "path": "data/understanding/wcag22/ja/enough-time.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/enough-time.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/enough-time.html",
+    "sha256": "1bc48988a6f65183c98baec9dfe6c661296b058d30a83f17b194f280dd4569e4",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "error-identification.html",
+    "item_key": "wcag:2.2:3.3.1",
+    "path": "data/understanding/wcag22/ja/error-identification.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/error-identification.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/error-identification.html",
+    "sha256": "e014eed7e3d27ebd9de2748b268cfaaf3f71ba3e5fcc7f61153f5d383385ee18",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "error-prevention-all.html",
+    "item_key": "wcag:2.2:3.3.6",
+    "path": "data/understanding/wcag22/ja/error-prevention-all.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/error-prevention-all.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/error-prevention-all.html",
+    "sha256": "9fdc1dcef2b866be479a2bae9752ac133d65eee15ccd5b38fa05391d01636286",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "error-prevention-legal-financial-data.html",
+    "item_key": "wcag:2.2:3.3.4",
+    "path": "data/understanding/wcag22/ja/error-prevention-legal-financial-data.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/error-prevention-legal-financial-data.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/error-prevention-legal-financial-data.html",
+    "sha256": "6c0a3ff66c1923290ab145e8ee4f73fb623d0392783b0ac1b63e27262e334ca1",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "error-suggestion.html",
+    "item_key": "wcag:2.2:3.3.3",
+    "path": "data/understanding/wcag22/ja/error-suggestion.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/error-suggestion.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/error-suggestion.html",
+    "sha256": "3c8f2966636518d16a249d7fc66246d70c41d8198e80973d44639967295ed194",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "extended-audio-description-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.7",
+    "path": "data/understanding/wcag22/ja/extended-audio-description-prerecorded.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/extended-audio-description-prerecorded.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/extended-audio-description-prerecorded.html",
+    "sha256": "1d0e75b4355ed2d6d7d9425f77e208797519a40ab3730a922770b4ab76be8d59",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "focus-appearance.html",
+    "item_key": "wcag:2.2:2.4.13",
+    "path": "data/understanding/wcag22/ja/focus-appearance.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/focus-appearance.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/focus-appearance.html",
+    "sha256": "35852ada93c6f7737606f3a78e6c0d94406e87edf52f9dd9d0e4b825a8cffdf7",
+    "image_paths": [
+      "img/component-complex-both-unselected.png",
+      "img/component-complex-both.png",
+      "img/component-complex-sub.png",
+      "img/component-complex-whole.png",
+      "img/focus-indicator-background-passing.png",
+      "img/focus-indicator-background.png",
+      "img/focus-indicator-basic.png",
+      "img/focus-indicator-box-shadow-only.png",
+      "img/focus-indicator-box-shadow.png",
+      "img/focus-indicator-browser-defaults-modified-background.png",
+      "img/focus-indicator-custom-shapes-inset.png",
+      "img/focus-indicator-custom-shapes-side-highlights.png",
+      "img/focus-indicator-good-adjacent-bad-change.png",
+      "img/focus-indicator-good-change-bad-adjacent.png",
+      "img/focus-indicator-innerline.png",
+      "img/focus-indicator-offset-types.png",
+      "img/focus-indicator-select.png",
+      "img/focus-indicator-solid-border.svg",
+      "img/focus-indicator-solid-outline.svg",
+      "img/focus-indicator-star-with-light-focus.svg",
+      "img/focus-indicator-two-color-thick.png",
+      "img/focus-indicator-two-color-thin.png",
+      "img/focus-indicator-whole-star.svg",
+      "img/focus-inline-link-outline.png",
+      "img/focus-inline-link.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "focus-not-obscured-enhanced.html",
+    "item_key": "wcag:2.2:2.4.12",
+    "path": "data/understanding/wcag22/ja/focus-not-obscured-enhanced.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/focus-not-obscured-enhanced.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/focus-not-obscured-enhanced.html",
+    "sha256": "ad7c79ca97465b455e90e4ce71c8258d06162394088938d31b3bdc136b7455e8",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "focus-not-obscured-minimum.html",
+    "item_key": "wcag:2.2:2.4.11",
+    "path": "data/understanding/wcag22/ja/focus-not-obscured-minimum.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/focus-not-obscured-minimum.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/focus-not-obscured-minimum.html",
+    "sha256": "95f266cdc1667c3e1efbb9ad64afa28d4a7f5e22dc7c5214492462d792c6bfbc",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "focus-order.html",
+    "item_key": "wcag:2.2:2.4.3",
+    "path": "data/understanding/wcag22/ja/focus-order.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/focus-order.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/focus-order.html",
+    "sha256": "ea31ee9b967e6df8f828c4ca88f14c3af559c6b11c080a7733aaf2c0e9b9ac9f",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "focus-visible.html",
+    "item_key": "wcag:2.2:2.4.7",
+    "path": "data/understanding/wcag22/ja/focus-visible.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/focus-visible.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/focus-visible.html",
+    "sha256": "5a3f7187193f046023cdacc34d4ef92a23960cc88577df4f41bc1797bd429b5a",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "headings-and-labels.html",
+    "item_key": "wcag:2.2:2.4.6",
+    "path": "data/understanding/wcag22/ja/headings-and-labels.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/headings-and-labels.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/headings-and-labels.html",
+    "sha256": "8e39fc53d27d419cddbf09c98bb2fe7850fbeef1993f942ea0d59412845f93ab",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "help.html",
+    "item_key": "wcag:2.2:3.3.5",
+    "path": "data/understanding/wcag22/ja/help.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/help.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/help.html",
+    "sha256": "59fdcaad11a285fec957e9a0ea4e1217a9fd58011f7f5e36da8b7e5f0d9cb468",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "identify-input-purpose.html",
+    "item_key": "wcag:2.2:1.3.5",
+    "path": "data/understanding/wcag22/ja/identify-input-purpose.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/identify-input-purpose.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/identify-input-purpose.html",
+    "sha256": "c18ef7641ec70b278634b2015d9f3b9845d997b35ba397d30cd219541a9bbb7b",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "identify-purpose.html",
+    "item_key": "wcag:2.2:1.3.6",
+    "path": "data/understanding/wcag22/ja/identify-purpose.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/identify-purpose.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/identify-purpose.html",
+    "sha256": "26d6a5518be3042cefb9e6562b07798b5f77f45e674b76193de96ed76a1c5594",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "images-of-text-no-exception.html",
+    "item_key": "wcag:2.2:1.4.9",
+    "path": "data/understanding/wcag22/ja/images-of-text-no-exception.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/images-of-text-no-exception.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/images-of-text-no-exception.html",
+    "sha256": "648589f5744fb6246bb32d81c6da80344031c5c5779919a898ad71010020a5fb",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "images-of-text.html",
+    "item_key": "wcag:2.2:1.4.5",
+    "path": "data/understanding/wcag22/ja/images-of-text.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/images-of-text.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/images-of-text.html",
+    "sha256": "912d72e9405e7363e77688c322a0e81a80dcbb622b770942d073966a6d210c14",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "index.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/index.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/index.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/index.html",
+    "sha256": "a0c1e384caaac651eb4f66316ac9e9a58520cf2150ad372968f1160d9b0cfec3",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "info-and-relationships.html",
+    "item_key": "wcag:2.2:1.3.1",
+    "path": "data/understanding/wcag22/ja/info-and-relationships.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/info-and-relationships.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/info-and-relationships.html",
+    "sha256": "391e92a45d527ad9342ab3b275e35d6c9eeb98fb5ecc721f7a5036ec10e3eb1b",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "input-assistance.html",
+    "item_key": "wcag:2.2:3.3",
+    "path": "data/understanding/wcag22/ja/input-assistance.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/input-assistance.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/input-assistance.html",
+    "sha256": "bc4e207779d361ad446b44e7611e9875a364bb47d4d9d441e3c39057dd510a21",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "input-modalities.html",
+    "item_key": "wcag:2.2:2.5",
+    "path": "data/understanding/wcag22/ja/input-modalities.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/input-modalities.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/input-modalities.html",
+    "sha256": "7f41b772f27ffc303530456a5ca3711c84994baa2942f27645e98ec1192713f3",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "interruptions.html",
+    "item_key": "wcag:2.2:2.2.4",
+    "path": "data/understanding/wcag22/ja/interruptions.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/interruptions.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/interruptions.html",
+    "sha256": "982e05cef76ebe18f6c34a024e6d52ea0c7999dcbd810070eddc29cc8c462f59",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "intro.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/intro.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/intro.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/intro.html",
+    "sha256": "ccebac7c29e75702aa30733f9eb92a8539dd09e51906b3d586e9bbaad5da9c80",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "keyboard-accessible.html",
+    "item_key": "wcag:2.2:2.1",
+    "path": "data/understanding/wcag22/ja/keyboard-accessible.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/keyboard-accessible.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/keyboard-accessible.html",
+    "sha256": "9b179333d146459402cdd4652170512a8acd9751200b824a6d96a0457d209171",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "keyboard-no-exception.html",
+    "item_key": "wcag:2.2:2.1.3",
+    "path": "data/understanding/wcag22/ja/keyboard-no-exception.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/keyboard-no-exception.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/keyboard-no-exception.html",
+    "sha256": "dd4b99211499307a21b94ba5f607964392013dc8939e36052870d209899684da",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "keyboard.html",
+    "item_key": "wcag:2.2:2.1.1",
+    "path": "data/understanding/wcag22/ja/keyboard.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/keyboard.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/keyboard.html",
+    "sha256": "40b8e78f08d0e5d114abdd697fc56207d5011125f967d68a63a3f225e43ff174",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "label-in-name.html",
+    "item_key": "wcag:2.2:2.5.3",
+    "path": "data/understanding/wcag22/ja/label-in-name.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/label-in-name.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/label-in-name.html",
+    "sha256": "f7c75b6f3bcdb5878bf5a684b53386e1389a89af0ab2e2774906e24acbe179b8",
+    "image_paths": [
+      "img/rich-text-editor-detail.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "labels-or-instructions.html",
+    "item_key": "wcag:2.2:3.3.2",
+    "path": "data/understanding/wcag22/ja/labels-or-instructions.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/labels-or-instructions.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/labels-or-instructions.html",
+    "sha256": "cff3648ad750f57eb70fbc65fa19c6a79398ca52e9146f5ee17814b94384db0b",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "language-of-page.html",
+    "item_key": "wcag:2.2:3.1.1",
+    "path": "data/understanding/wcag22/ja/language-of-page.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/language-of-page.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/language-of-page.html",
+    "sha256": "3db29267c37ed0b7353cc2b6406d8b906a2564cad6a9661d1c2f1955dcef7b71",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "language-of-parts.html",
+    "item_key": "wcag:2.2:3.1.2",
+    "path": "data/understanding/wcag22/ja/language-of-parts.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/language-of-parts.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/language-of-parts.html",
+    "sha256": "d4599e3bd6781f50e33cf2e744b193eb8a171af04124f9e81f53a15ae3262679",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "link-purpose-in-context.html",
+    "item_key": "wcag:2.2:2.4.4",
+    "path": "data/understanding/wcag22/ja/link-purpose-in-context.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/link-purpose-in-context.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/link-purpose-in-context.html",
+    "sha256": "27d70165603eb850516dc4079d2a66ea5300f113b0ea7e807c3a64fe225f019b",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "link-purpose-link-only.html",
+    "item_key": "wcag:2.2:2.4.9",
+    "path": "data/understanding/wcag22/ja/link-purpose-link-only.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/link-purpose-link-only.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/link-purpose-link-only.html",
+    "sha256": "73fafaf93ad049db9bd7560f508b2ed726166f523cda217f1d17646c0add0b17",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "location.html",
+    "item_key": "wcag:2.2:2.4.8",
+    "path": "data/understanding/wcag22/ja/location.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/location.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/location.html",
+    "sha256": "0945d2bc0402376ed2b22acaca8b15406bbc61cc5d3311bc7bcf6e1e12676219",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "low-or-no-background-audio.html",
+    "item_key": "wcag:2.2:1.4.7",
+    "path": "data/understanding/wcag22/ja/low-or-no-background-audio.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/low-or-no-background-audio.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/low-or-no-background-audio.html",
+    "sha256": "d044b25e3d657998cbc71fb54a37cac3ccf7e64532b431a831dd08928edcabce",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "meaningful-sequence.html",
+    "item_key": "wcag:2.2:1.3.2",
+    "path": "data/understanding/wcag22/ja/meaningful-sequence.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/meaningful-sequence.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/meaningful-sequence.html",
+    "sha256": "d73a0c82386bc35a226cdc3b3c30ac030255a0f0b03996775bd2150b31847828",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "media-alternative-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.8",
+    "path": "data/understanding/wcag22/ja/media-alternative-prerecorded.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/media-alternative-prerecorded.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/media-alternative-prerecorded.html",
+    "sha256": "416f36fdda143f4b7c6f8d7df1661ecce23d44ac62cd9072a19070c8a6e28e38",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "motion-actuation.html",
+    "item_key": "wcag:2.2:2.5.4",
+    "path": "data/understanding/wcag22/ja/motion-actuation.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/motion-actuation.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/motion-actuation.html",
+    "sha256": "05bf9484665037b8a8b19d2baa1d05c1f6aa72188a93f8d7a3b4ebf4f490e281",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "multiple-ways.html",
+    "item_key": "wcag:2.2:2.4.5",
+    "path": "data/understanding/wcag22/ja/multiple-ways.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/multiple-ways.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/multiple-ways.html",
+    "sha256": "61fc7119a29bab8abede5104b5da1b6fe61174f4b6c496a51a7d6f95b109a9a5",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "name-role-value.html",
+    "item_key": "wcag:2.2:4.1.2",
+    "path": "data/understanding/wcag22/ja/name-role-value.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/name-role-value.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/name-role-value.html",
+    "sha256": "82e4df37d60b592265855c636855622f93c21d52e02de5ae081cae4fc7e2f45e",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "navigable.html",
+    "item_key": "wcag:2.2:2.4",
+    "path": "data/understanding/wcag22/ja/navigable.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/navigable.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/navigable.html",
+    "sha256": "300e513d1afa92ced9157f833cfe31f8fd5481cac68553fb21e394c04c55f9c7",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "no-keyboard-trap.html",
+    "item_key": "wcag:2.2:2.1.2",
+    "path": "data/understanding/wcag22/ja/no-keyboard-trap.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/no-keyboard-trap.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/no-keyboard-trap.html",
+    "sha256": "9c4de2eaf517794f72d36b7a9296e391f9ce5bc4d4dca4fb2bcde4d9c26cbff7",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "no-timing.html",
+    "item_key": "wcag:2.2:2.2.3",
+    "path": "data/understanding/wcag22/ja/no-timing.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/no-timing.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/no-timing.html",
+    "sha256": "5edbc24a066f35b4446795190b3a09f33a9dad2777ea57a8d2b68f889145b233",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "non-text-content.html",
+    "item_key": "wcag:2.2:1.1.1",
+    "path": "data/understanding/wcag22/ja/non-text-content.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/non-text-content.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/non-text-content.html",
+    "sha256": "e37d315c03a645e1bbd1a27224c5f6ea1c3269c592534d14a0a57af4ae45cbd1",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "non-text-contrast.html",
+    "item_key": "wcag:2.2:1.4.11",
+    "path": "data/understanding/wcag22/ja/non-text-contrast.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/non-text-contrast.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/non-text-contrast.html",
+    "sha256": "945a4642ae16dc93d947e4facf78855cc3c134c14a67d572c9b2f0e9c0a643c0",
+    "image_paths": [
+      "img/button-background.png",
+      "img/buttons-text-symbols.png",
+      "img/checkbox-example1.png",
+      "img/checkbox-example2.png",
+      "img/checkbox-example3.png",
+      "img/checkbox-example4.png",
+      "img/checkbox-example5.png",
+      "img/checkbox-purple.png",
+      "img/contrast-currency-down.png",
+      "img/contrast-gradient.png",
+      "img/contrast-magnet.png",
+      "img/contrast-phone.png",
+      "img/dropdown.png",
+      "img/dropdown2.png",
+      "img/dynamic-pie-chart.png",
+      "img/graphics-contrast_pie-chart_fail.png",
+      "img/graphics-contrast_pie-chart_na.png",
+      "img/graphics-contrast_pie-chart_pass.png",
+      "img/inactive-button.png",
+      "img/infographic-fail.png",
+      "img/infographic-pass.png",
+      "img/link-text-default.png",
+      "img/link-text-focus.png",
+      "img/minimal-button.png",
+      "img/ntc-focus-background.png",
+      "img/ntc-focus-border.png",
+      "img/ntc-focus-inner-border.png",
+      "img/ntc-focus-inner-outer.png",
+      "img/ntc-focus-inner-white.png",
+      "img/ntc-focus-inner.png",
+      "img/ntc-focus-outer-green.png",
+      "img/ntc-focus-outer-yellow.png",
+      "img/radio-custom.png",
+      "img/simple-line-graph.png",
+      "img/star-examples-fail.png",
+      "img/star-examples-pass.png",
+      "img/text-input-background-border.png",
+      "img/text-input-background.png",
+      "img/text-input-default.png",
+      "img/text-input-focus.png",
+      "img/text-input-minimal.png",
+      "img/toggle.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "on-focus.html",
+    "item_key": "wcag:2.2:3.2.1",
+    "path": "data/understanding/wcag22/ja/on-focus.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/on-focus.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/on-focus.html",
+    "sha256": "7cabba5f5706a052b6fac33cc605a54ece743f636bd4ab4d6073a77989a4d055",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "on-input.html",
+    "item_key": "wcag:2.2:3.2.2",
+    "path": "data/understanding/wcag22/ja/on-input.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/on-input.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/on-input.html",
+    "sha256": "d3433a963dab557d67d8045e811bc3b6df9acf1621f062b0f3575b35dd1ae8cf",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "orientation.html",
+    "item_key": "wcag:2.2:1.3.4",
+    "path": "data/understanding/wcag22/ja/orientation.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/orientation.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/orientation.html",
+    "sha256": "46f5374314596a6b6f4e30e009813a70aa69ac6416dbcd138447f6c2430d860e",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "page-titled.html",
+    "item_key": "wcag:2.2:2.4.2",
+    "path": "data/understanding/wcag22/ja/page-titled.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/page-titled.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/page-titled.html",
+    "sha256": "bc2af0995a7a0dcf1eab85113f8911305abbcb65c3bb39deed73ef1081a06d47",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "parsing.html",
+    "item_key": "wcag:2.2:4.1.1",
+    "path": "data/understanding/wcag22/ja/parsing.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/parsing.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/parsing.html",
+    "sha256": "1765b94254c3bb090ff698fd7cdd243e9d4cc62f2fdca43cb958284257b98b3f",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "pause-stop-hide.html",
+    "item_key": "wcag:2.2:2.2.2",
+    "path": "data/understanding/wcag22/ja/pause-stop-hide.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/pause-stop-hide.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/pause-stop-hide.html",
+    "sha256": "d3e40a434fc73db97cfea63d2c299266eea52fcae14ceb8a69845740e56e2f87",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "pointer-cancellation.html",
+    "item_key": "wcag:2.2:2.5.2",
+    "path": "data/understanding/wcag22/ja/pointer-cancellation.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/pointer-cancellation.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/pointer-cancellation.html",
+    "sha256": "c559e24a4d284944a282822c8c8e2eda34eef5b28dbfffdf5c3768007555d50d",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "pointer-gestures.html",
+    "item_key": "wcag:2.2:2.5.1",
+    "path": "data/understanding/wcag22/ja/pointer-gestures.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/pointer-gestures.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/pointer-gestures.html",
+    "sha256": "b57689763f84abcb75015f1f223ba88d04100e8d8129fef673a09a9969b94c83",
+    "image_paths": [
+      "img/path-based-gesture-1.png",
+      "img/path-based-gesture-2.png",
+      "img/path-based-gesture-3.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "predictable.html",
+    "item_key": "wcag:2.2:3.2",
+    "path": "data/understanding/wcag22/ja/predictable.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/predictable.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/predictable.html",
+    "sha256": "49281a59bf036c5da0283c0387502f0415d68d2cb64eacf426601b0a01a40b81",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "pronunciation.html",
+    "item_key": "wcag:2.2:3.1.6",
+    "path": "data/understanding/wcag22/ja/pronunciation.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/pronunciation.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/pronunciation.html",
+    "sha256": "6582b60479394ae5fec7d825243b4aa27ad881296ea69dcf5a4f3877d7b55fc9",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "re-authenticating.html",
+    "item_key": "wcag:2.2:2.2.5",
+    "path": "data/understanding/wcag22/ja/re-authenticating.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/re-authenticating.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/re-authenticating.html",
+    "sha256": "1012790330a07e31db5359c9768182b9df08939ed0fd371d4eaa26e8d67683b4",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "readable.html",
+    "item_key": "wcag:2.2:3.1",
+    "path": "data/understanding/wcag22/ja/readable.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/readable.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/readable.html",
+    "sha256": "92c00df5e50aab023d73624d0eea93c35da5ecd5a38b309c811d5d949fa89d4d",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "reading-level.html",
+    "item_key": "wcag:2.2:3.1.5",
+    "path": "data/understanding/wcag22/ja/reading-level.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/reading-level.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/reading-level.html",
+    "sha256": "badcd32fd3deba8ca12eb860005a6f3d3d93c4115b2c075dfbb9a0698d914dbf",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "redundant-entry.html",
+    "item_key": "wcag:2.2:3.3.7",
+    "path": "data/understanding/wcag22/ja/redundant-entry.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/redundant-entry.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/redundant-entry.html",
+    "sha256": "7a8dc217be1275c56623c535fe11277c0c43f63c6abca166309f057dc2fe6771",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "refer-to-wcag.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/refer-to-wcag.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/refer-to-wcag.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/refer-to-wcag.html",
+    "sha256": "122abeb2daf520096e7a07874f56b781960074eaffe30d49ec7581cfb0d93725",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "reflow.html",
+    "item_key": "wcag:2.2:1.4.10",
+    "path": "data/understanding/wcag22/ja/reflow.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/reflow.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/reflow.html",
+    "sha256": "f7d514f4e64afcdc38c587c96868e627b50a1fa21720f5eee075dd3e30b9ccc4",
+    "image_paths": [
+      "img/css-pixel-by-device.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "resize-text.html",
+    "item_key": "wcag:2.2:1.4.4",
+    "path": "data/understanding/wcag22/ja/resize-text.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/resize-text.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/resize-text.html",
+    "sha256": "c493cb59422b9d16b53ce7541daf0af5fb9693aff7ee282c61088fbe96f17f10",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "section-headings.html",
+    "item_key": "wcag:2.2:2.4.10",
+    "path": "data/understanding/wcag22/ja/section-headings.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/section-headings.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/section-headings.html",
+    "sha256": "32a0d97db1d4435f664fbc2ea0b413043bb13cf1d218866b6d0cd118f772445a",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "seizures-and-physical-reactions.html",
+    "item_key": "wcag:2.2:2.3",
+    "path": "data/understanding/wcag22/ja/seizures-and-physical-reactions.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/seizures-and-physical-reactions.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/seizures-and-physical-reactions.html",
+    "sha256": "58ebcb78fed5bdde45894c0bc62223eb35de42a91114378409d287c1489b6d47",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "sensory-characteristics.html",
+    "item_key": "wcag:2.2:1.3.3",
+    "path": "data/understanding/wcag22/ja/sensory-characteristics.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/sensory-characteristics.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/sensory-characteristics.html",
+    "sha256": "c320c5c646aad4b750f8192271b87f9031bdf4281b112b8134375b3b5e1463a1",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "sign-language-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.6",
+    "path": "data/understanding/wcag22/ja/sign-language-prerecorded.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/sign-language-prerecorded.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/sign-language-prerecorded.html",
+    "sha256": "f50a7a6ebcb4bcc9882cf235182977e274ac36f0684af8586d7d01123dcc954d",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "status-messages.html",
+    "item_key": "wcag:2.2:4.1.3",
+    "path": "data/understanding/wcag22/ja/status-messages.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/status-messages.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/status-messages.html",
+    "sha256": "0c419bce8d90dcba81f43077e8c95fd56b0435aceaf0112030a8144b43727ee1",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "target-size-enhanced.html",
+    "item_key": "wcag:2.2:2.5.5",
+    "path": "data/understanding/wcag22/ja/target-size-enhanced.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/target-size-enhanced.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/target-size-enhanced.html",
+    "sha256": "722a421db2c97371d08c1f8aa97d90811b7dce5b42c44e69db4f2e6285ef944f",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "target-size-minimum.html",
+    "item_key": "wcag:2.2:2.5.8",
+    "path": "data/understanding/wcag22/ja/target-size-minimum.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/target-size-minimum.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/target-size-minimum.html",
+    "sha256": "432d4056bbcf949b01c2d2adcaa44dd1bb3917a4c0fbf46e4675d7b3c5cbdc97",
+    "image_paths": [
+      "img/target-dropdown.svg",
+      "img/target-large-small-clipping.svg",
+      "img/target-large-small-touching.svg",
+      "img/target-size-basic.svg",
+      "img/target-size-bounding-boxes.svg",
+      "img/target-size-skewed.svg",
+      "img/target-size-undersized-rounded.svg",
+      "img/target-spacing-toolbar.svg",
+      "img/target-text-buttons-single-row.svg",
+      "img/target-text-buttons-two-rows.svg"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "text-alternatives.html",
+    "item_key": "wcag:2.2:1.1",
+    "path": "data/understanding/wcag22/ja/text-alternatives.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/text-alternatives.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/text-alternatives.html",
+    "sha256": "120bc6b64aa4703d5f60f5db30aa9cd30c01b8e7069e40f2d05e3c068dd439ef",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "text-spacing.html",
+    "item_key": "wcag:2.2:1.4.12",
+    "path": "data/understanding/wcag22/ja/text-spacing.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/text-spacing.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/text-spacing.html",
+    "sha256": "05144c797e066ca131758cce547604470cd1aa8e69280e5137d1630413925752",
+    "image_paths": [
+      "img/spacing_cutoff_fail_horizontal.png",
+      "img/spacing_cutoff_fail_vertical.png",
+      "img/spacing_overlap_fail.png"
+    ]
+  },
+  {
+    "language": "ja",
+    "filename": "three-flashes-or-below-threshold.html",
+    "item_key": "wcag:2.2:2.3.1",
+    "path": "data/understanding/wcag22/ja/three-flashes-or-below-threshold.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/three-flashes-or-below-threshold.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/three-flashes-or-below-threshold.html",
+    "sha256": "5a33dc642910f86b44b53f9e0af5ba8fa1ac065e1fd0363eef68b668c42611c7",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "three-flashes.html",
+    "item_key": "wcag:2.2:2.3.2",
+    "path": "data/understanding/wcag22/ja/three-flashes.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/three-flashes.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/three-flashes.html",
+    "sha256": "b6a4e18ecac80a32818faf27c5a84e648b5a44cf38624be50bf4d09daf92d1eb",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "time-based-media.html",
+    "item_key": "wcag:2.2:1.2",
+    "path": "data/understanding/wcag22/ja/time-based-media.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/time-based-media.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/time-based-media.html",
+    "sha256": "c7cabd9014bf66f14dbf4c239c78ddf9e317448e5efd53d1f5522dbaf6f2f3ff",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "timeouts.html",
+    "item_key": "wcag:2.2:2.2.6",
+    "path": "data/understanding/wcag22/ja/timeouts.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/timeouts.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/timeouts.html",
+    "sha256": "1cec1bc686fab6a2c10808a2b4bc6fd454971e2d3b84b4f9860aab99338cab26",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "timing-adjustable.html",
+    "item_key": "wcag:2.2:2.2.1",
+    "path": "data/understanding/wcag22/ja/timing-adjustable.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/timing-adjustable.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/timing-adjustable.html",
+    "sha256": "e00b93a20f81384c2035780d0d3d3c4f02422adffe833852b39920fe91b28566",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "understanding-act-rules.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/understanding-act-rules.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/understanding-act-rules.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/understanding-act-rules.html",
+    "sha256": "bd33ef0d608608035b7b19ee996a60ac75071dec4af0c7ab871cc5b8d2c1ffe9",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "understanding-metadata.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/understanding-metadata.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/understanding-metadata.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/understanding-metadata.html",
+    "sha256": "f8bdeb6edf041f6e55ff7076aaa4e0989387e33d8bfc619fba9ac8140e657c2d",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "understanding-techniques.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/ja/understanding-techniques.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/understanding-techniques.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/understanding-techniques.html",
+    "sha256": "6abbb111d4c929d9a9beb23cb7e63e3c03528b3ecbf3165898f6bad12c5988fc",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "unusual-words.html",
+    "item_key": "wcag:2.2:3.1.3",
+    "path": "data/understanding/wcag22/ja/unusual-words.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/unusual-words.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/unusual-words.html",
+    "sha256": "23d67acd361eee7f9554dd31947d41ee7bb90c6284b7e16bf165a80fa7714b50",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "use-of-color.html",
+    "item_key": "wcag:2.2:1.4.1",
+    "path": "data/understanding/wcag22/ja/use-of-color.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/use-of-color.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/use-of-color.html",
+    "sha256": "592dae8b8880195df96ae9e67488cb270d321e27147646798e80b5854848596c",
+    "image_paths": []
+  },
+  {
+    "language": "ja",
+    "filename": "visual-presentation.html",
+    "item_key": "wcag:2.2:1.4.8",
+    "path": "data/understanding/wcag22/ja/visual-presentation.html",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/visual-presentation.html",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/visual-presentation.html",
+    "sha256": "22a50df8f7b566f48a84339b0625aa85c46ec39c469f23a379d328be12122119",
+    "image_paths": [
+      "img/double-space.gif",
+      "img/single-space.gif",
+      "img/space-and-a-half.gif"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "abbreviations.html",
+    "item_key": "wcag:2.2:3.1.4",
+    "path": "data/understanding/wcag22/en/abbreviations.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/abbreviations.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/abbreviations.html",
+    "sha256": "f0cf491172ee8fc554f974426898b8440ebb7993f33584ffd5d139c0ec2e9727",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "about.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/about.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/about.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/about.html",
+    "sha256": "b5a96b063d312b6aef3b06c84f3e0f924a28fb7129cde211577cac32c3c263e7",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "accessible-authentication-enhanced.html",
+    "item_key": "wcag:2.2:3.3.9",
+    "path": "data/understanding/wcag22/en/accessible-authentication-enhanced.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/accessible-authentication-enhanced.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html",
+    "sha256": "e7925dd5d7371689ecd2e701eafda3ac658a34e8fbeac17b1544d1be0cc024ff",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "accessible-authentication-minimum.html",
+    "item_key": "wcag:2.2:3.3.8",
+    "path": "data/understanding/wcag22/en/accessible-authentication-minimum.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/accessible-authentication-minimum.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html",
+    "sha256": "9753c36b2d2ff379e5f9966c3c3b8f55c3bebedd768167f51f284df676fde659",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "adaptable.html",
+    "item_key": "wcag:2.2:1.3",
+    "path": "data/understanding/wcag22/en/adaptable.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/adaptable.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/adaptable.html",
+    "sha256": "430cc4ace8ba25c467603679e06cc0ffec52c1321637cc26e98d5da34190ca58",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "animation-from-interactions.html",
+    "item_key": "wcag:2.2:2.3.3",
+    "path": "data/understanding/wcag22/en/animation-from-interactions.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/animation-from-interactions.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html",
+    "sha256": "63dcf912e497fcc3b45de9a8cc4763e01b81f95c7efe7c76f4837a1f0398160c",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "audio-control.html",
+    "item_key": "wcag:2.2:1.4.2",
+    "path": "data/understanding/wcag22/en/audio-control.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/audio-control.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html",
+    "sha256": "c1f00a82491827b7bf109a5a0105d549d5a7f197c4e78bd417cf265dc52e3491",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "audio-description-or-media-alternative-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.3",
+    "path": "data/understanding/wcag22/en/audio-description-or-media-alternative-prerecorded.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/audio-description-or-media-alternative-prerecorded.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded.html",
+    "sha256": "7b61aeecb11e5ddfc583131fa0379541083f9cef508bd147a1be63454601b7a8",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "audio-description-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.5",
+    "path": "data/understanding/wcag22/en/audio-description-prerecorded.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/audio-description-prerecorded.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-description-prerecorded.html",
+    "sha256": "c7162a9a5640402a526c41f7b86002e7300e1b1175a178751b100111ab33229b",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "audio-only-and-video-only-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.1",
+    "path": "data/understanding/wcag22/en/audio-only-and-video-only-prerecorded.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/audio-only-and-video-only-prerecorded.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html",
+    "sha256": "4e756b2a8ee04b87b31e2c21c79546fd2755b8eb79a28226e45699dc2105310f",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "audio-only-live.html",
+    "item_key": "wcag:2.2:1.2.9",
+    "path": "data/understanding/wcag22/en/audio-only-live.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/audio-only-live.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-only-live.html",
+    "sha256": "5db7b02640ddffa1fc686a13f67f83cb85fbb02f4d02a697b30e9eec31106834",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "bypass-blocks.html",
+    "item_key": "wcag:2.2:2.4.1",
+    "path": "data/understanding/wcag22/en/bypass-blocks.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/bypass-blocks.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html",
+    "sha256": "6c899bc65e14dccf7fdbe32e95ba68266b9eb6eea02e50f6556c246bb43aeca9",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "captions-live.html",
+    "item_key": "wcag:2.2:1.2.4",
+    "path": "data/understanding/wcag22/en/captions-live.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/captions-live.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html",
+    "sha256": "ba30b0d3498c4f7c152e69d0203e8884fb4bab6de84269e0786d46c0ab4fd9ea",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "captions-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.2",
+    "path": "data/understanding/wcag22/en/captions-prerecorded.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/captions-prerecorded.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html",
+    "sha256": "1c52c8d87b6519b0e7aa64bd4d9ead8313c185bdc538ca418130f67fc0673bee",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "change-on-request.html",
+    "item_key": "wcag:2.2:3.2.5",
+    "path": "data/understanding/wcag22/en/change-on-request.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/change-on-request.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/change-on-request.html",
+    "sha256": "31007dd39f94d7830aee5a536eef1a0c0ef638ef3b9d74062a1b8e6b920c0d75",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "character-key-shortcuts.html",
+    "item_key": "wcag:2.2:2.1.4",
+    "path": "data/understanding/wcag22/en/character-key-shortcuts.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/character-key-shortcuts.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/character-key-shortcuts.html",
+    "sha256": "f5ee8fba10cef87056ef06593b965234e8055cca386fdfc5944bc489cf0c6dcb",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "compatible.html",
+    "item_key": "wcag:2.2:4.1",
+    "path": "data/understanding/wcag22/en/compatible.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/compatible.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/compatible.html",
+    "sha256": "66929b20fdbb8762f6d159448d3f1398c3558f80425473c0f98848e1b39aec64",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "concurrent-input-mechanisms.html",
+    "item_key": "wcag:2.2:2.5.6",
+    "path": "data/understanding/wcag22/en/concurrent-input-mechanisms.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/concurrent-input-mechanisms.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/concurrent-input-mechanisms.html",
+    "sha256": "0d6e3aa7c92dc1fe59f1520eba2c113802aa876fe5cecc22c0a3294f7efe73bb",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "conformance.html",
+    "item_key": "wcag:2.2:5",
+    "path": "data/understanding/wcag22/en/conformance.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/conformance.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/conformance.html",
+    "sha256": "783342683124458f72d92a97b8853a06c2d97a792eaddb244e0397582f823468",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "consistent-help.html",
+    "item_key": "wcag:2.2:3.2.6",
+    "path": "data/understanding/wcag22/en/consistent-help.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/consistent-help.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html",
+    "sha256": "8273d9576e9ddf2b7e47a68cb8720fc0ad8419e2d5606270723ee2c49d23acd8",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "consistent-identification.html",
+    "item_key": "wcag:2.2:3.2.4",
+    "path": "data/understanding/wcag22/en/consistent-identification.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/consistent-identification.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification.html",
+    "sha256": "8e96dc5fb7a9840e36d8848e9e854547b304876e100da6139514479db0e8021c",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "consistent-navigation.html",
+    "item_key": "wcag:2.2:3.2.3",
+    "path": "data/understanding/wcag22/en/consistent-navigation.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/consistent-navigation.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation.html",
+    "sha256": "deec5920a3092a3078c96098fb7c4ae6e48170b47cde518dc56e32e5e1134c6b",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "content-on-hover-or-focus.html",
+    "item_key": "wcag:2.2:1.4.13",
+    "path": "data/understanding/wcag22/en/content-on-hover-or-focus.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/content-on-hover-or-focus.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus.html",
+    "sha256": "66043e035ac4bfe6b6a97f47d8f69e44d9c371a2141e0836139b9cb5645df685",
+    "image_paths": [
+      "img/button-focus-indicator.png",
+      "img/button-pointer-below-tooltip.png",
+      "img/button-pointer-on-tooltip.png",
+      "img/button-pointer-tooltip.png",
+      "img/button-pointer.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "contrast-enhanced.html",
+    "item_key": "wcag:2.2:1.4.6",
+    "path": "data/understanding/wcag22/en/contrast-enhanced.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/contrast-enhanced.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html",
+    "sha256": "e68656897ec164e8ac285bfca947adf59ec040100b6005453d23494a16ef7d52",
+    "image_paths": [
+      "img/inactive-button.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "contrast-minimum.html",
+    "item_key": "wcag:2.2:1.4.3",
+    "path": "data/understanding/wcag22/en/contrast-minimum.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/contrast-minimum.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+    "sha256": "28dfd101feb45f7bdfb7efc9c811aa002182a413b6d2f68e459285260aaf7c74",
+    "image_paths": [
+      "img/inactive-button.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "distinguishable.html",
+    "item_key": "wcag:2.2:1.4",
+    "path": "data/understanding/wcag22/en/distinguishable.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/distinguishable.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/distinguishable.html",
+    "sha256": "5a69ef72915ff2fe7f03f9fbc1dab7bd831ee211b23b6ca4fecaa1fb54d608e0",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "documenting-accessibility-support.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/documenting-accessibility-support.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/documenting-accessibility-support.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/documenting-accessibility-support.html",
+    "sha256": "8bc22a0aff89ddd38da0de3f31136e5ad6108371ff1e684abd8a6a94aa82d72d",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "dragging-movements.html",
+    "item_key": "wcag:2.2:2.5.7",
+    "path": "data/understanding/wcag22/en/dragging-movements.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/dragging-movements.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html",
+    "sha256": "2a302c8f8079186a2701596db61e44ccc6570bbe86e6fa7712aedf39c400fe3b",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "enough-time.html",
+    "item_key": "wcag:2.2:2.2",
+    "path": "data/understanding/wcag22/en/enough-time.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/enough-time.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/enough-time.html",
+    "sha256": "3ac54524b4a6b7eb071df8ce7514974c5a1f86fda4d7129ea090f3570465e68d",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "error-identification.html",
+    "item_key": "wcag:2.2:3.3.1",
+    "path": "data/understanding/wcag22/en/error-identification.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/error-identification.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html",
+    "sha256": "99ee40ccd8228a64fedb7eb95210096711ecd262f2ba619bce9e8ff73fbe0bde",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "error-prevention-all.html",
+    "item_key": "wcag:2.2:3.3.6",
+    "path": "data/understanding/wcag22/en/error-prevention-all.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/error-prevention-all.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-all.html",
+    "sha256": "2cd0ecfd3596dbfc6367aa5cbb3777c9f1a4f985dd2697d79175dcc6c86c8da3",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "error-prevention-legal-financial-data.html",
+    "item_key": "wcag:2.2:3.3.4",
+    "path": "data/understanding/wcag22/en/error-prevention-legal-financial-data.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/error-prevention-legal-financial-data.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-financial-data.html",
+    "sha256": "da6781cffb7f0b76a4e1033fa51b982794621404a7a3fb825fd1392a3da2f392",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "error-suggestion.html",
+    "item_key": "wcag:2.2:3.3.3",
+    "path": "data/understanding/wcag22/en/error-suggestion.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/error-suggestion.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html",
+    "sha256": "9ffec464a84f6021a997db6d9b1ba9f1998d130672bdee207870ad2fbfbab48a",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "extended-audio-description-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.7",
+    "path": "data/understanding/wcag22/en/extended-audio-description-prerecorded.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/extended-audio-description-prerecorded.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/extended-audio-description-prerecorded.html",
+    "sha256": "51ea834cd042efd91f2171e7c13bb245320ccb4317cb230680011141cf685f34",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "focus-appearance.html",
+    "item_key": "wcag:2.2:2.4.13",
+    "path": "data/understanding/wcag22/en/focus-appearance.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/focus-appearance.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html",
+    "sha256": "a5814933a9b1223ea89529e3214f09b6d16c0f51221cf5ca987647ab14350da7",
+    "image_paths": [
+      "img/component-complex-both-unselected.png",
+      "img/component-complex-both.png",
+      "img/component-complex-sub.png",
+      "img/component-complex-whole.png",
+      "img/focus-indicator-background-passing.png",
+      "img/focus-indicator-background.png",
+      "img/focus-indicator-basic.png",
+      "img/focus-indicator-box-shadow-only.png",
+      "img/focus-indicator-box-shadow.png",
+      "img/focus-indicator-browser-defaults-modified-background.png",
+      "img/focus-indicator-custom-shapes-inset.png",
+      "img/focus-indicator-custom-shapes-side-highlights.png",
+      "img/focus-indicator-good-adjacent-bad-change.png",
+      "img/focus-indicator-good-change-bad-adjacent.png",
+      "img/focus-indicator-innerline.png",
+      "img/focus-indicator-offset-types.png",
+      "img/focus-indicator-select.png",
+      "img/focus-indicator-solid-border.svg",
+      "img/focus-indicator-solid-outline.svg",
+      "img/focus-indicator-star-with-light-focus.svg",
+      "img/focus-indicator-two-color-thick.png",
+      "img/focus-indicator-two-color-thin.png",
+      "img/focus-indicator-whole-star.svg",
+      "img/focus-inline-link-outline.png",
+      "img/focus-inline-link.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "focus-not-obscured-enhanced.html",
+    "item_key": "wcag:2.2:2.4.12",
+    "path": "data/understanding/wcag22/en/focus-not-obscured-enhanced.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/focus-not-obscured-enhanced.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html",
+    "sha256": "55276857d65a7eb0b4120f271c808899be10c2e895914b67765d37a76501dc21",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "focus-not-obscured-minimum.html",
+    "item_key": "wcag:2.2:2.4.11",
+    "path": "data/understanding/wcag22/en/focus-not-obscured-minimum.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/focus-not-obscured-minimum.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html",
+    "sha256": "dfdfe9abe7789e8c96f022df2d16517afa217a7f80410a8af47639754035172e",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "focus-order.html",
+    "item_key": "wcag:2.2:2.4.3",
+    "path": "data/understanding/wcag22/en/focus-order.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/focus-order.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html",
+    "sha256": "405f085416656f5942ed501a0dfa3bf12ba97d9414441f041198fced949cfe02",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "focus-visible.html",
+    "item_key": "wcag:2.2:2.4.7",
+    "path": "data/understanding/wcag22/en/focus-visible.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/focus-visible.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html",
+    "sha256": "e4bdb0e3e191e630ae1d9972567797f5ce82e2c5836e2b8e4595634cb2689a4c",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "headings-and-labels.html",
+    "item_key": "wcag:2.2:2.4.6",
+    "path": "data/understanding/wcag22/en/headings-and-labels.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/headings-and-labels.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html",
+    "sha256": "fe34a9ab604a601471bdfe23f7bc6971cae52d67a21cd6c5ba5cc5b2cdebaa6b",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "help.html",
+    "item_key": "wcag:2.2:3.3.5",
+    "path": "data/understanding/wcag22/en/help.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/help.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/help.html",
+    "sha256": "99d4909a20bb7cab3c25969eac5225c56b70788581cebafc49c9a829665e47c8",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "identify-input-purpose.html",
+    "item_key": "wcag:2.2:1.3.5",
+    "path": "data/understanding/wcag22/en/identify-input-purpose.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/identify-input-purpose.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/identify-input-purpose.html",
+    "sha256": "b37117fae9a823b37f5294b1cfe9c23eacef399314d2e6b80e369f61ee8bdb24",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "identify-purpose.html",
+    "item_key": "wcag:2.2:1.3.6",
+    "path": "data/understanding/wcag22/en/identify-purpose.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/identify-purpose.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/identify-purpose.html",
+    "sha256": "9fb4b0e8971f36d1df23a85d51e974c6532045b2f245b3c03904e09458c6d8f6",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "images-of-text-no-exception.html",
+    "item_key": "wcag:2.2:1.4.9",
+    "path": "data/understanding/wcag22/en/images-of-text-no-exception.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/images-of-text-no-exception.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/images-of-text-no-exception.html",
+    "sha256": "8d5159175de33fada17c670211d3eba267cde9f2b91451cae6bbf24734a691c5",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "images-of-text.html",
+    "item_key": "wcag:2.2:1.4.5",
+    "path": "data/understanding/wcag22/en/images-of-text.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/images-of-text.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html",
+    "sha256": "d0ea3884d48eca1c8bd76f2aae063f0f5abead0a30abc2a71ce23743825b95f5",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "index.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/index.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/index.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/index.html",
+    "sha256": "f6ac6739309bdafbec1927e9b2ba0b94c21eca68dcb91a85e920a8fc261ed525",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "info-and-relationships.html",
+    "item_key": "wcag:2.2:1.3.1",
+    "path": "data/understanding/wcag22/en/info-and-relationships.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/info-and-relationships.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.html",
+    "sha256": "ddd5f405bf2096910651ed37ff946070ca87830809d23dd470e120ef841a5826",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "input-assistance.html",
+    "item_key": "wcag:2.2:3.3",
+    "path": "data/understanding/wcag22/en/input-assistance.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/input-assistance.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/input-assistance.html",
+    "sha256": "91147820720643ee36196e92b31d3f33ffb8f35c261d5398bf450280bb5b6a61",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "input-modalities.html",
+    "item_key": "wcag:2.2:2.5",
+    "path": "data/understanding/wcag22/en/input-modalities.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/input-modalities.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/input-modalities.html",
+    "sha256": "96e011b51afb9dcdf64704b12f4b4df1eb36af5bffa3cd1ed64c60203de49cc5",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "interruptions.html",
+    "item_key": "wcag:2.2:2.2.4",
+    "path": "data/understanding/wcag22/en/interruptions.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/interruptions.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/interruptions.html",
+    "sha256": "ad33d3c719c2832c931ee75627d125194dbfb32d09a5f9b8c3bc5d27e3270532",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "intro.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/intro.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/intro.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/intro.html",
+    "sha256": "2fcde6da0b4914bfdddee2712616b4f1c22ec5b81b1f7a6fa274020743f2c6a9",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "keyboard-accessible.html",
+    "item_key": "wcag:2.2:2.1",
+    "path": "data/understanding/wcag22/en/keyboard-accessible.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/keyboard-accessible.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible.html",
+    "sha256": "6e94a8a01f64c6d40b8ddc6025e6d4f289a6b7aa9ce937b118210caf1fb0c95e",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "keyboard-no-exception.html",
+    "item_key": "wcag:2.2:2.1.3",
+    "path": "data/understanding/wcag22/en/keyboard-no-exception.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/keyboard-no-exception.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/keyboard-no-exception.html",
+    "sha256": "ea55eb55dbe7a99a0b85bff16f0c5b2e6b9a2ee4d48f4fdb5ed2677cc4e2d79f",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "keyboard.html",
+    "item_key": "wcag:2.2:2.1.1",
+    "path": "data/understanding/wcag22/en/keyboard.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/keyboard.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html",
+    "sha256": "7f8c24ebd30cc8c2c684f43658b1a3628aac180499e01557d4b774a87989f3a8",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "label-in-name.html",
+    "item_key": "wcag:2.2:2.5.3",
+    "path": "data/understanding/wcag22/en/label-in-name.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/label-in-name.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/label-in-name.html",
+    "sha256": "1f65b701b11cbafa2926240bfca500a3bb9f29256ed8d7dad13c36008541bfe5",
+    "image_paths": [
+      "img/rich-text-editor-detail.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "labels-or-instructions.html",
+    "item_key": "wcag:2.2:3.3.2",
+    "path": "data/understanding/wcag22/en/labels-or-instructions.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/labels-or-instructions.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html",
+    "sha256": "b7bb481fdffd00734e1c07b987281781e46bd7a1d8dd0ad51a2012dd2f68a132",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "language-of-page.html",
+    "item_key": "wcag:2.2:3.1.1",
+    "path": "data/understanding/wcag22/en/language-of-page.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/language-of-page.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html",
+    "sha256": "54c42518c6e0c663b17d5bbc429804c0e190831912d6a6b876a00e0987c6ede6",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "language-of-parts.html",
+    "item_key": "wcag:2.2:3.1.2",
+    "path": "data/understanding/wcag22/en/language-of-parts.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/language-of-parts.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html",
+    "sha256": "3116029a70e6d21d6927b20eaf7bd687e21116e9ac20f7307681407478087ad0",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "link-purpose-in-context.html",
+    "item_key": "wcag:2.2:2.4.4",
+    "path": "data/understanding/wcag22/en/link-purpose-in-context.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/link-purpose-in-context.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html",
+    "sha256": "c804fffe1434d3403eb3d070846c6aa4a8511bda8e3016cc735d558dd85567fc",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "link-purpose-link-only.html",
+    "item_key": "wcag:2.2:2.4.9",
+    "path": "data/understanding/wcag22/en/link-purpose-link-only.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/link-purpose-link-only.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only.html",
+    "sha256": "845b17944756e0815e2661cb00f0a6a6760e2f81c9e67d16d96d242ae022dd6a",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "location.html",
+    "item_key": "wcag:2.2:2.4.8",
+    "path": "data/understanding/wcag22/en/location.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/location.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/location.html",
+    "sha256": "10b2b10b2fbdea68717c5d91bec42e3d94ce017f052f9b7345023fb36ef8be67",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "low-or-no-background-audio.html",
+    "item_key": "wcag:2.2:1.4.7",
+    "path": "data/understanding/wcag22/en/low-or-no-background-audio.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/low-or-no-background-audio.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/low-or-no-background-audio.html",
+    "sha256": "317ca38515799954093ea321e0a3d5f4c0563ff01f74ad2a881bdfdcf7df0961",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "meaningful-sequence.html",
+    "item_key": "wcag:2.2:1.3.2",
+    "path": "data/understanding/wcag22/en/meaningful-sequence.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/meaningful-sequence.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html",
+    "sha256": "2a9e36ec0b9b2aa4754b5ec070e484909f058003c38eb12a2ddf71e0257b1b0e",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "media-alternative-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.8",
+    "path": "data/understanding/wcag22/en/media-alternative-prerecorded.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/media-alternative-prerecorded.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/media-alternative-prerecorded.html",
+    "sha256": "11fbcc6e50b5aa6adf402e135e6a04945068c7fb98ce86eccbd1050e110925eb",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "motion-actuation.html",
+    "item_key": "wcag:2.2:2.5.4",
+    "path": "data/understanding/wcag22/en/motion-actuation.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/motion-actuation.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/motion-actuation.html",
+    "sha256": "af484293bbd016adb4850f085d18b6febe741c56e4b6fc6a8e61de40bd5b12d4",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "multiple-ways.html",
+    "item_key": "wcag:2.2:2.4.5",
+    "path": "data/understanding/wcag22/en/multiple-ways.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/multiple-ways.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html",
+    "sha256": "2e816fd722b0b7a9fc65926c0c85c29b5a7046d4ffe22bd5b4b6ec06d0fdcaa7",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "name-role-value.html",
+    "item_key": "wcag:2.2:4.1.2",
+    "path": "data/understanding/wcag22/en/name-role-value.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/name-role-value.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html",
+    "sha256": "6b426e87e3ec08540c4a7581b962c0c9cc84e46d617faa7549f476d566cb0e00",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "navigable.html",
+    "item_key": "wcag:2.2:2.4",
+    "path": "data/understanding/wcag22/en/navigable.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/navigable.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/navigable.html",
+    "sha256": "2c4ebb60f8a8e308594d2b1eff1d33f2288bad3f19fdbf1e0613319183581c5e",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "no-keyboard-trap.html",
+    "item_key": "wcag:2.2:2.1.2",
+    "path": "data/understanding/wcag22/en/no-keyboard-trap.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/no-keyboard-trap.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html",
+    "sha256": "4876f70733c05f481765751f8d22ea12af651d429ae57d0c66fa9d5a8b3ac618",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "no-timing.html",
+    "item_key": "wcag:2.2:2.2.3",
+    "path": "data/understanding/wcag22/en/no-timing.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/no-timing.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/no-timing.html",
+    "sha256": "b299b75a8a7e0a0f67380092642ffc57a847be712dba1ac88250188756701587",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "non-text-content.html",
+    "item_key": "wcag:2.2:1.1.1",
+    "path": "data/understanding/wcag22/en/non-text-content.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/non-text-content.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html",
+    "sha256": "b3be81cbbda6ac5fa75d52b5dad33121fc362ec338083a10ab0297c4dd764ccd",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "non-text-contrast.html",
+    "item_key": "wcag:2.2:1.4.11",
+    "path": "data/understanding/wcag22/en/non-text-contrast.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/non-text-contrast.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html",
+    "sha256": "785cdfa37dbca3394a4d25f7aa74974df66cc77cbaec1a985cd734b669e82006",
+    "image_paths": [
+      "img/button-background.png",
+      "img/buttons-text-symbols.png",
+      "img/checkbox-example1.png",
+      "img/checkbox-example2.png",
+      "img/checkbox-example3.png",
+      "img/checkbox-example4.png",
+      "img/checkbox-example5.png",
+      "img/checkbox-purple.png",
+      "img/contrast-currency-down.png",
+      "img/contrast-gradient.png",
+      "img/contrast-magnet.png",
+      "img/contrast-phone.png",
+      "img/dropdown.png",
+      "img/dropdown2.png",
+      "img/dynamic-pie-chart.png",
+      "img/graphics-contrast_pie-chart_fail.png",
+      "img/graphics-contrast_pie-chart_na.png",
+      "img/graphics-contrast_pie-chart_pass.png",
+      "img/inactive-button.png",
+      "img/infographic-fail.png",
+      "img/infographic-pass.png",
+      "img/link-text-default.png",
+      "img/link-text-focus.png",
+      "img/minimal-button.png",
+      "img/ntc-focus-background.png",
+      "img/ntc-focus-border.png",
+      "img/ntc-focus-inner-border.png",
+      "img/ntc-focus-inner-outer.png",
+      "img/ntc-focus-inner-white.png",
+      "img/ntc-focus-inner.png",
+      "img/ntc-focus-outer-green.png",
+      "img/ntc-focus-outer-yellow.png",
+      "img/radio-custom.png",
+      "img/simple-line-graph.png",
+      "img/star-examples-fail.png",
+      "img/star-examples-pass.png",
+      "img/text-input-background-border.png",
+      "img/text-input-background.png",
+      "img/text-input-default.png",
+      "img/text-input-focus.png",
+      "img/text-input-minimal.png",
+      "img/toggle.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "on-focus.html",
+    "item_key": "wcag:2.2:3.2.1",
+    "path": "data/understanding/wcag22/en/on-focus.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/on-focus.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html",
+    "sha256": "971206f5711e95c347d3c26af664b5de8b1a6c59030c73e3132c61f1876dd7b8",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "on-input.html",
+    "item_key": "wcag:2.2:3.2.2",
+    "path": "data/understanding/wcag22/en/on-input.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/on-input.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/on-input.html",
+    "sha256": "d3fcf3ee0c61eb7e9960d442f1bf4b276107c4172e21683664987c70c2512724",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "orientation.html",
+    "item_key": "wcag:2.2:1.3.4",
+    "path": "data/understanding/wcag22/en/orientation.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/orientation.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/orientation.html",
+    "sha256": "f08fa342a7cda9046bd8baae9f57837c18f13d7a0df318da1ea1d0a9145bcdb4",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "page-titled.html",
+    "item_key": "wcag:2.2:2.4.2",
+    "path": "data/understanding/wcag22/en/page-titled.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/page-titled.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html",
+    "sha256": "50054e8ab66cc09527cbdeb124e03ef8b4bd201baa92475bbfa000545ee82596",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "parsing.html",
+    "item_key": "wcag:2.2:4.1.1",
+    "path": "data/understanding/wcag22/en/parsing.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/parsing.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/parsing.html",
+    "sha256": "57bd528ee4a32d0cbb671842e1501886862327bd9465c6ee866c6174c1c1fbf6",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "pause-stop-hide.html",
+    "item_key": "wcag:2.2:2.2.2",
+    "path": "data/understanding/wcag22/en/pause-stop-hide.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/pause-stop-hide.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html",
+    "sha256": "db0d1a3433006ce7e64552d7dede53c0058293ec8ddb26645c812578d3890cc4",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "pointer-cancellation.html",
+    "item_key": "wcag:2.2:2.5.2",
+    "path": "data/understanding/wcag22/en/pointer-cancellation.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/pointer-cancellation.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/pointer-cancellation.html",
+    "sha256": "c409f33c728e290af2b39351e159a3ef266f88b4f15a85949086c62182da8d59",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "pointer-gestures.html",
+    "item_key": "wcag:2.2:2.5.1",
+    "path": "data/understanding/wcag22/en/pointer-gestures.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/pointer-gestures.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/pointer-gestures.html",
+    "sha256": "00ed729a92e3d702e56342ff7070340df3ac213e2c64cc0859a80830b86b1386",
+    "image_paths": [
+      "img/path-based-gesture-1.png",
+      "img/path-based-gesture-2.png",
+      "img/path-based-gesture-3.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "predictable.html",
+    "item_key": "wcag:2.2:3.2",
+    "path": "data/understanding/wcag22/en/predictable.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/predictable.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/predictable.html",
+    "sha256": "62edadc6f3f407234df7efb1c10722d1b42f8323b7645465386af02c205b4e1e",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "pronunciation.html",
+    "item_key": "wcag:2.2:3.1.6",
+    "path": "data/understanding/wcag22/en/pronunciation.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/pronunciation.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/pronunciation.html",
+    "sha256": "841b8967db9ca7a85bd0bdc605740c7094ec1f370e82010fb670a3bd4fb483d2",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "re-authenticating.html",
+    "item_key": "wcag:2.2:2.2.5",
+    "path": "data/understanding/wcag22/en/re-authenticating.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/re-authenticating.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/re-authenticating.html",
+    "sha256": "aa76f7acdb265e0ff0ccc08f03aa7251ee4d9150fd0621b2380fb71a004f3c26",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "readable.html",
+    "item_key": "wcag:2.2:3.1",
+    "path": "data/understanding/wcag22/en/readable.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/readable.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/readable.html",
+    "sha256": "3214e8b8b0b234215f0d890f80d5227b23688488a8763658c57a4bf262bdc1da",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "reading-level.html",
+    "item_key": "wcag:2.2:3.1.5",
+    "path": "data/understanding/wcag22/en/reading-level.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/reading-level.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/reading-level.html",
+    "sha256": "b2e1ab333c14d8c3191f78d0f40b8b4e9204cb296ba08ccadd5bbdb592a3509a",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "redundant-entry.html",
+    "item_key": "wcag:2.2:3.3.7",
+    "path": "data/understanding/wcag22/en/redundant-entry.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/redundant-entry.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html",
+    "sha256": "8759e50b17b656898cd4c4040bebe2e1924c72a8911a8acacec7919aea6c6af6",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "refer-to-wcag.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/refer-to-wcag.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/refer-to-wcag.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/refer-to-wcag.html",
+    "sha256": "44fd0fc89705d04a944bd4985eeb6656a9a177b900f42e32468cb8c755d0cd66",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "reflow.html",
+    "item_key": "wcag:2.2:1.4.10",
+    "path": "data/understanding/wcag22/en/reflow.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/reflow.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/reflow.html",
+    "sha256": "c3e8f327f9af880c99b67f6ba13ffa158c74bc2d4287f2fa249052e468215ed2",
+    "image_paths": [
+      "img/css-pixel-by-device.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "resize-text.html",
+    "item_key": "wcag:2.2:1.4.4",
+    "path": "data/understanding/wcag22/en/resize-text.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/resize-text.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html",
+    "sha256": "6d95d7d3fc79f296e36b6d82808e60efd8f21e1a6f5b47a9dc00e5d5c3e9c7f2",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "section-headings.html",
+    "item_key": "wcag:2.2:2.4.10",
+    "path": "data/understanding/wcag22/en/section-headings.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/section-headings.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/section-headings.html",
+    "sha256": "582947fcdb14bcd244e9bfdc4df57ad79d47806476b948357becb0112bee7840",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "seizures-and-physical-reactions.html",
+    "item_key": "wcag:2.2:2.3",
+    "path": "data/understanding/wcag22/en/seizures-and-physical-reactions.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/seizures-and-physical-reactions.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/seizures-and-physical-reactions.html",
+    "sha256": "1e4cb14d994786b45f495bb2ad9bc8ead312f3c07cd3126a6a155a2a6588cd88",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "sensory-characteristics.html",
+    "item_key": "wcag:2.2:1.3.3",
+    "path": "data/understanding/wcag22/en/sensory-characteristics.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/sensory-characteristics.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.html",
+    "sha256": "b2389d5b90b421253c66a8e79ba18e8d28f1f78c71ff36dfd87ffaa53fa3fe0f",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "sign-language-prerecorded.html",
+    "item_key": "wcag:2.2:1.2.6",
+    "path": "data/understanding/wcag22/en/sign-language-prerecorded.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/sign-language-prerecorded.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/sign-language-prerecorded.html",
+    "sha256": "7d930afa4ce259ecd92d9daa4342b89edd692ad7f9a13406557e4e65bf5bb1cc",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "status-messages.html",
+    "item_key": "wcag:2.2:4.1.3",
+    "path": "data/understanding/wcag22/en/status-messages.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/status-messages.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html",
+    "sha256": "0c96eb65f12c43a460d9f2380d230c200b83561ceb8bd8dd6ffc5467474a4979",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "target-size-enhanced.html",
+    "item_key": "wcag:2.2:2.5.5",
+    "path": "data/understanding/wcag22/en/target-size-enhanced.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/target-size-enhanced.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html",
+    "sha256": "e5ecd9c80e0087d5a2892b00f6c06882124ea696f660c5d5f209042974829271",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "target-size-minimum.html",
+    "item_key": "wcag:2.2:2.5.8",
+    "path": "data/understanding/wcag22/en/target-size-minimum.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/target-size-minimum.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html",
+    "sha256": "f386d122ea73a0220a04d5b1cafdbc317c432f5364736a3da9ae5dbddb25fbec",
+    "image_paths": [
+      "img/target-dropdown.svg",
+      "img/target-large-small-clipping.svg",
+      "img/target-large-small-touching.svg",
+      "img/target-size-basic.svg",
+      "img/target-size-bounding-boxes.svg",
+      "img/target-size-skewed.svg",
+      "img/target-size-undersized-rounded.svg",
+      "img/target-spacing-toolbar.svg",
+      "img/target-text-buttons-single-row.svg",
+      "img/target-text-buttons-two-rows.svg"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "text-alternatives.html",
+    "item_key": "wcag:2.2:1.1",
+    "path": "data/understanding/wcag22/en/text-alternatives.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/text-alternatives.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives.html",
+    "sha256": "1108c491236386a5b3eb4805290c150749fec0dac7e7efa3f32a9308ea4f9b5f",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "text-spacing.html",
+    "item_key": "wcag:2.2:1.4.12",
+    "path": "data/understanding/wcag22/en/text-spacing.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/text-spacing.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html",
+    "sha256": "aff842c2fcd2c0dcabf1aed2b61772ea4ab7ca040870fe0d005d34df6857a1ec",
+    "image_paths": [
+      "img/spacing_cutoff_fail_horizontal.png",
+      "img/spacing_cutoff_fail_vertical.png",
+      "img/spacing_overlap_fail.png"
+    ]
+  },
+  {
+    "language": "en",
+    "filename": "three-flashes-or-below-threshold.html",
+    "item_key": "wcag:2.2:2.3.1",
+    "path": "data/understanding/wcag22/en/three-flashes-or-below-threshold.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/three-flashes-or-below-threshold.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-threshold.html",
+    "sha256": "b826d159d03bf18105e18464be91634c053d48b24650ffa5081316527b7c17f9",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "three-flashes.html",
+    "item_key": "wcag:2.2:2.3.2",
+    "path": "data/understanding/wcag22/en/three-flashes.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/three-flashes.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/three-flashes.html",
+    "sha256": "299321cf212b1395af831a389d022f556fd2a5bdfcf8a4575503f2c2a0afd3d3",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "time-based-media.html",
+    "item_key": "wcag:2.2:1.2",
+    "path": "data/understanding/wcag22/en/time-based-media.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/time-based-media.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/time-based-media.html",
+    "sha256": "16e732d274112b3d3064e1a9f188a98915ae0017fbfc98b98cfdba209e6e740b",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "timeouts.html",
+    "item_key": "wcag:2.2:2.2.6",
+    "path": "data/understanding/wcag22/en/timeouts.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/timeouts.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/timeouts.html",
+    "sha256": "49b4d7640fc02ef75a487d07f6eae11f40d7cd8f67f3a603859071a9fb3e1ef7",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "timing-adjustable.html",
+    "item_key": "wcag:2.2:2.2.1",
+    "path": "data/understanding/wcag22/en/timing-adjustable.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/timing-adjustable.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable.html",
+    "sha256": "2d40520f3a30113abae16045a82c56a2254ba54f66041aeac99c5a49f2e65682",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "understanding-act-rules.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/understanding-act-rules.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/understanding-act-rules.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/understanding-act-rules.html",
+    "sha256": "4766a3c5134c44f8c6b7216c04a6704f511eb2e373d1d45966551e4aaaf60df1",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "understanding-metadata.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/understanding-metadata.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/understanding-metadata.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/understanding-metadata.html",
+    "sha256": "ddf699bf4d52055966f0f50aab14e1dc9040036565851e48fd8fa2a34b926c92",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "understanding-techniques.html",
+    "item_key": null,
+    "path": "data/understanding/wcag22/en/understanding-techniques.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/understanding-techniques.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques.html",
+    "sha256": "d8e6200bebc6e5ab5b76a50ee134eb2aa3928e4f8f509b49f6d70c95ee394b37",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "unusual-words.html",
+    "item_key": "wcag:2.2:3.1.3",
+    "path": "data/understanding/wcag22/en/unusual-words.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/unusual-words.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/unusual-words.html",
+    "sha256": "9fe7e207fbc0c9c42d20f2641aa9852793409b0ecf1b31f9a6fac2752a708074",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "use-of-color.html",
+    "item_key": "wcag:2.2:1.4.1",
+    "path": "data/understanding/wcag22/en/use-of-color.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/use-of-color.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html",
+    "sha256": "6cccf8d84e076d1e77dff73f8fb0073b3cd2a1f7ed58c7a154bbb1cdd426c327",
+    "image_paths": []
+  },
+  {
+    "language": "en",
+    "filename": "visual-presentation.html",
+    "item_key": "wcag:2.2:1.4.8",
+    "path": "data/understanding/wcag22/en/visual-presentation.html",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/visual-presentation.html",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html",
+    "sha256": "0274afe42481524cf695772c4d2d6ae7aecbb670063cfbdadbfcfd3f918828d5",
+    "image_paths": [
+      "img/double-space.gif",
+      "img/single-space.gif",
+      "img/space-and-a-half.gif"
+    ]
+  }
+]

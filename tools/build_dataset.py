@@ -57,7 +57,6 @@ WORKBOOK_COLUMNS = [
     ("wcag20_initial", "ja", "wcag:2.0", "historical_translation"),
     ("wcag20_revised", "ja", "wcag:2.0", "historical_translation"),
     ("wcag21_translation", "ja", "wcag:2.1", "historical_translation"),
-    ("planned_jis", "ja", "planned-jis", "planned_name"),
 ]
 
 
@@ -111,7 +110,7 @@ def write_catalog(path: Path, rows: list[dict], items: list[dict], names: list[d
                   for name in names}
     fields = ["number", "kind", "wcag22_status", "level", "wcag22_en", "wcag22_ja",
               "jis2016_ja", "wcag20_initial_ja", "wcag20_revised_ja", "wcag21_ja",
-              "planned_jis_ja", "wcag22_url", "waic_url", "workbook_row"]
+              "wcag22_url", "waic_url", "workbook_row"]
     with path.open("w", encoding="utf-8", newline="") as output:
         writer = csv.DictWriter(output, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
@@ -129,7 +128,6 @@ def write_catalog(path: Path, rows: list[dict], items: list[dict], names: list[d
                 "wcag20_initial_ja": row["labels"][2] if row["labels"][2] not in (None, "-") else "",
                 "wcag20_revised_ja": row["labels"][3] if row["labels"][3] not in (None, "-") else "",
                 "wcag21_ja": row["labels"][4] if row["labels"][4] not in (None, "-") else "",
-                "planned_jis_ja": name_index.get((item_key, None, "planned_formatted_name"), ""),
                 "wcag22_url": f"{SOURCE_FILES['wcag22-en.html'][0]}#{item['anchor']}",
                 "waic_url": f"{SOURCE_FILES['wcag22-ja.html'][0]}#{item['anchor']}",
                 "workbook_row": row["row"],
@@ -175,7 +173,7 @@ def workbook_rows(path: Path) -> list[dict]:
         if number == 1 or values[0] is None:
             continue
         rows.append({"row": number, "number": normalized_id(values[0]),
-                     "raw_number": values[0], "labels": list(values[1:7])})
+                     "raw_number": values[0], "labels": list(values[1:6])})
     if len(rows) != 117 or len({r["number"] for r in rows}) != 117:
         raise ValueError("Workbook must contain 117 unique reference rows")
     return rows
@@ -219,10 +217,6 @@ def build(source_dir: Path, workbook_path: Path) -> None:
         {"id": "waic-jis2016-guide", "title": "JIS X 8341-3:2016 解説", "publisher": "WAIC",
          "url": "https://waic.jp/docs/jis2016/understanding/",
          "note": "JIS X 8341-3:2016 と WCAG 2.0 の一致規格という関係の根拠"},
-        {"id": "project-name-format-rule", "title": "予定JIS名称の表記規則", "publisher": "本プロジェクト",
-         "recorded_on": "2026-09-25", "target_edition_hint": "2027（未確定）",
-         "rule": "原則・ガイドライン・達成基準の名称に、それぞれ『の原則』『のガイドライン』『の達成基準』を付ける",
-         "status": "editorial_rule; not_official_jis_text"},
     ]
 
     items, names, texts, relations = [], [], [], []
@@ -324,8 +318,8 @@ def build(source_dir: Path, workbook_path: Path) -> None:
             value = row["labels"][column_index]
             if value is not None and not isinstance(value, str):
                 raise ValueError(f"Unexpected label type at row {row['row']}")
-            actual_key = key(scope, number) if scope != "planned-jis" else item22
-            if value not in (None, "-") and scope != "planned-jis":
+            actual_key = key(scope, number)
+            if value not in (None, "-"):
                 if actual_key not in {item["key"] for item in items}:
                     if scope == "jis-x-8341-3:2016":
                         items.append({"key": actual_key, "standard": "JIS X 8341-3",
@@ -339,7 +333,7 @@ def build(source_dir: Path, workbook_path: Path) -> None:
                                               "source_id": "waic-jis2016-guide"})
                     elif scope == "wcag:2.0" or scope == "wcag:2.1":
                         raise ValueError(f"Historical name without edition item: {actual_key}")
-            if scope != "planned-jis" and actual_key not in {item["key"] for item in items}:
+            if actual_key not in {item["key"] for item in items}:
                 actual_key = item22
             names.append({"item_key": actual_key, "language": language,
                           "value": value if value not in (None, "-") else None,
@@ -348,17 +342,6 @@ def build(source_dir: Path, workbook_path: Path) -> None:
                           "workbook_column": column_key,
                           "source_id": "criteria-workbook",
                           "source_cell": f"シート1!{chr(ord('B') + column_index)}{row['row']}"})
-            if column_key == "planned_jis" and value not in (None, "-"):
-                suffix = {"principle": "の原則", "guideline": "のガイドライン",
-                          "success_criterion": "の達成基準"}.get(kind)
-                if suffix is None:
-                    raise ValueError(f"No suffix rule for {number}: {kind}")
-                names.append({"item_key": item22, "language": "ja", "value": value + suffix,
-                              "status": "planned_formatted_name", "target_standard": "JIS X 8341-3",
-                              "target_edition_hint": "2027（未確定）",
-                              "source_id": "project-name-format-rule",
-                              "derived_from_source_id": "criteria-workbook",
-                              "derived_from_source_cell": f"シート1!G{row['row']}"})
 
     # Check every reference after all items have been collected.
     item_keys = {item["key"] for item in items}
@@ -382,7 +365,7 @@ def build(source_dir: Path, workbook_path: Path) -> None:
         write_json(out / filename, value)
     write_catalog(out / "catalog.csv", rows, items, names)
     write_json(out / "manifest.json", {
-        "dataset_version": "0.1.0", "generated_on": date.today().isoformat(),
+        "dataset_version": "0.2.0", "generated_on": date.today().isoformat(),
         "status": "draft_local; not_reviewed_for_public_release",
         "counts": {"workbook_rows": len(rows), "items": len(items), "names": len(names),
                    "texts": len(texts), "relations": len(relations)},

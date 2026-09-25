@@ -30,7 +30,7 @@ def main() -> None:
     item_keys = {item["key"] for item in items}
     require(len(source_ids) == len(sources), "Duplicate source IDs")
     require(len(item_keys) == len(items), "Duplicate item keys")
-    require(len(items) == 378 and len(names) == 1135 and len(texts) == 329,
+    require(len(items) == 378 and len(names) == 914 and len(texts) == 329,
             "Dataset counts differ from the reviewed snapshot")
     require(len(relations) == 249, "Relation count differs from the reviewed snapshot")
     for kind, records in (("item", items), ("name", names), ("text", texts), ("relation", relations)):
@@ -60,19 +60,11 @@ def main() -> None:
                 for item in items) == 61, "JIS 2016 criterion count differs")
 
     cells = [name["source_cell"] for name in names if name["source_id"] == "criteria-workbook"]
-    require(len(cells) == 117 * 6 and len(set(cells)) == len(cells),
+    require(len(cells) == 117 * 5 and len(set(cells)) == len(cells),
             "Not every workbook name cell was represented once")
-    formatted = [name for name in names if name["status"] == "planned_formatted_name"]
-    require(len(formatted) == 104, "Planned formatted names should cover 104 rows")
-    suffix_by_kind = {"principle": "の原則", "guideline": "のガイドライン",
-                      "success_criterion": "の達成基準"}
-    by_key = {item["key"]: item for item in items}
-    require(all(name["value"].endswith(suffix_by_kind[by_key[name["item_key"]]["kind"]])
-                for name in formatted), "Planned name suffixes differ")
-    raw_planned = {name["item_key"]: name["value"] for name in names
-                   if name.get("workbook_column") == "planned_jis"}
-    require(all(name["value"].startswith(raw_planned[name["item_key"]])
-                for name in formatted), "Planned source names were not preserved")
+    require(not any("planned" in name.get("status", "") or
+                    "planned" in name.get("workbook_column", "") for name in names),
+            "Non-public planned names remain")
     official_ja = {name["item_key"] for name in names if name["source_id"] == "waic-wcag22-ja"}
     require(len(official_ja) == 117, "WAIC names do not cover all WCAG 2.2 reference rows")
     require(all(text["html"] for text in texts), "Empty body in texts.json")
@@ -81,13 +73,12 @@ def main() -> None:
         catalog = list(csv.DictReader(stream))
     require(len(catalog) == 117 and len({row["number"] for row in catalog}) == 117,
             "Catalog must contain 117 unique rows")
-    formatted_by_key = {name["item_key"]: name["value"] for name in formatted}
-    require(all(row["planned_jis_ja"] == formatted_by_key.get(f"wcag:2.2:{row['number']}", "")
-                for row in catalog), "Catalog K column differs from formatted planned names")
+    require("planned_jis_ja" not in catalog[0], "Non-public catalog column remains")
     require(manifest["counts"] == {"workbook_rows": 117, "items": len(items),
                                     "names": len(names), "texts": len(texts),
                                     "relations": len(relations)}, "Manifest counts differ")
-    print("Validated 117 catalog rows, 378 items, 1135 names, 329 texts, 249 relations")
+    require(manifest["dataset_version"] == "0.2.0", "Dataset version differs")
+    print("Validated 117 catalog rows, 378 items, 914 names, 329 texts, 249 relations")
 
 
 if __name__ == "__main__":

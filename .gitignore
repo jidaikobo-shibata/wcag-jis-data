@@ -1,5 +1,6 @@
 /criteria.xlsx
 /icl.xlsx
 /.cache/
+/.codex-private/
 __pycache__/
 .~lock.*#

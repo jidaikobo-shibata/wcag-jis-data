@@ -54,14 +54,5 @@
     "publisher": "WAIC",
     "url": "https://waic.jp/docs/jis2016/understanding/",
     "note": "JIS X 8341-3:2016 と WCAG 2.0 の一致規格という関係の根拠"
-  },
-  {
-    "id": "project-name-format-rule",
-    "title": "予定JIS名称の表記規則",
-    "publisher": "本プロジェクト",
-    "recorded_on": "2026-09-25",
-    "target_edition_hint": "2027（未確定）",
-    "rule": "原則・ガイドライン・達成基準の名称に、それぞれ『の原則』『のガイドライン』『の達成基準』を付ける",
-    "status": "editorial_rule; not_official_jis_text"
   }
 ]

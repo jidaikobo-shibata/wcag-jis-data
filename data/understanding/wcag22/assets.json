@@ -1,0 +1,2052 @@
+[
+  {
+    "language": "ja",
+    "relative_path": "img/button-background.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/button-background.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/button-background.png",
+    "sha256": "dd676a8483bfd2e4c7cb5c6b678ddd5839897734778924caa6d23f4bfd28b3c9",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/button-focus-indicator.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/button-focus-indicator.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/button-focus-indicator.png",
+    "sha256": "da3e2c7dbdbbbcb11fc172adc1f82495ff99432f10ea823b1cd9070220cd4a62",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/button-pointer-below-tooltip.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/button-pointer-below-tooltip.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/button-pointer-below-tooltip.png",
+    "sha256": "508a543781153a9c082d89af0e4be6e75cdbb7e1caeb5bf1858ff4f86e334311",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/button-pointer-on-tooltip.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/button-pointer-on-tooltip.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/button-pointer-on-tooltip.png",
+    "sha256": "30df7b1bcc585b9d090c062965a608bbafaa797a282d30e0beef5f320568a0b7",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/button-pointer-tooltip.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/button-pointer-tooltip.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/button-pointer-tooltip.png",
+    "sha256": "10b2ba0a260ea18d981fd3aea6c08975f93eeae26d3772dbcb902ccd0e249b09",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/button-pointer.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/button-pointer.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/button-pointer.png",
+    "sha256": "3fada3dbb0bf2565edc50be75fdefc656d01501bd19e5aa843a141ed9e9c910b",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/buttons-text-symbols.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/buttons-text-symbols.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/buttons-text-symbols.png",
+    "sha256": "e740086bb0b5ad813f08ff1c8ba43cc27bb57d9fe215ce245b1fd82ccd12282b",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/checkbox-example1.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/checkbox-example1.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/checkbox-example1.png",
+    "sha256": "64be6b07f94b2f7654427a9819907aa81aaadee8cc90aab421b2752208e0651c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/checkbox-example2.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/checkbox-example2.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/checkbox-example2.png",
+    "sha256": "d82abdd2b4730ac43e95868e066310a056863131b592dce1f29cf6b4719c6e00",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/checkbox-example3.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/checkbox-example3.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/checkbox-example3.png",
+    "sha256": "d210cbc90c94eeb35d6452951b8e48fb733ea934e8f9b2554611e74eada92092",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/checkbox-example4.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/checkbox-example4.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/checkbox-example4.png",
+    "sha256": "10424f3396b893852a165a911b9f43500a9a6972f15633a0a0b94a8d0155e02b",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/checkbox-example5.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/checkbox-example5.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/checkbox-example5.png",
+    "sha256": "1b0e1c6a4f38aa6d08746a3070660386e09fe5db036d768bf1b26298e1600a00",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/checkbox-purple.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/checkbox-purple.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/checkbox-purple.png",
+    "sha256": "a35184089eaaa615bed654de060ec12ea1a070cd301ee105818434180f850827",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/component-complex-both-unselected.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/component-complex-both-unselected.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/component-complex-both-unselected.png",
+    "sha256": "09c4cf6daff42798a055e0f185ee5ab47fbae4b8fe6d77587ce64fbdd8001b32",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/component-complex-both.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/component-complex-both.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/component-complex-both.png",
+    "sha256": "055ff5f772a6f8d6043f0cb8857833a8aba805b47f3d93b84d39ce0166f55c80",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/component-complex-sub.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/component-complex-sub.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/component-complex-sub.png",
+    "sha256": "8d5d7884a839a58798cb37ddb6b632649bc9188b790aed1b7558bb8ecde2c242",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/component-complex-whole.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/component-complex-whole.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/component-complex-whole.png",
+    "sha256": "bc3bee838327f7fe22377ba5588cb6bbef21d8567bf94571c156b67ac526ba13",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/contrast-currency-down.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/contrast-currency-down.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/contrast-currency-down.png",
+    "sha256": "8f9f482c4df8d86f3000298ef78c7f28413fa084233758b0b4f30726e976fd1e",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/contrast-gradient.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/contrast-gradient.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/contrast-gradient.png",
+    "sha256": "a0e2767dcfabd4448ddef4ae928fdca8be0c7edeb8870a37a0b700258ea89f7a",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/contrast-magnet.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/contrast-magnet.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/contrast-magnet.png",
+    "sha256": "395f885d0bde18d9fd88bbc9362e4e50a8525dae7b5159e0df766952de8e3b96",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/contrast-phone.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/contrast-phone.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/contrast-phone.png",
+    "sha256": "ca2321b30b0842f1444b666de126489b99882f8427bf5c3f605c9706c05b89fe",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/css-pixel-by-device.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/css-pixel-by-device.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/css-pixel-by-device.png",
+    "sha256": "806125c158d97aedbc0d571e8ff5b28086cca0d16c2fcc149d72353a15a343a3",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "reflow.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/double-space.gif",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/double-space.gif",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/double-space.gif",
+    "sha256": "027447c86a71237b516fd1d41ec48c1869a89dc90f856af0d21eb0fcaeb29440",
+    "mime_type": "image/gif",
+    "referenced_by": [
+      "visual-presentation.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/dropdown.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/dropdown.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/dropdown.png",
+    "sha256": "c5fc91a998366db68aede17f5701c28dc7b1440af0efe3cfdfd244efd23835b2",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/dropdown2.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/dropdown2.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/dropdown2.png",
+    "sha256": "9f867ea5876442030040dd31c2de30129d6c09bba4da40237edb6fe1ac6e72d4",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/dynamic-pie-chart.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/dynamic-pie-chart.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/dynamic-pie-chart.png",
+    "sha256": "eac5dd5a1310066498a5e97ad898e3efe4e5726d279b598495bda01475141b93",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-background-passing.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-background-passing.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-background-passing.png",
+    "sha256": "494b541d3773dec22aec5ca5cc5519b3b83f4990bde64995998dd7222345cfd7",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-background.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-background.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-background.png",
+    "sha256": "152a041133cea56a8732b57fc514930c3627c3b7b862e75bde018ef7591b646e",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-basic.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-basic.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-basic.png",
+    "sha256": "b372d5b70313e84cf93cad890b838b30246e98680302c43a7134955fc3e2a272",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-box-shadow-only.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-box-shadow-only.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-box-shadow-only.png",
+    "sha256": "238e61629f715b8ad7ead86c19364373b9c3f0929bf91fdb9c8d6dba67277dc9",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-box-shadow.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-box-shadow.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-box-shadow.png",
+    "sha256": "50a32630c95e9adea05da167fa2de81a2cf9ac57026e918a3b9a7d2f80e36812",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-browser-defaults-modified-background.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-browser-defaults-modified-background.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-browser-defaults-modified-background.png",
+    "sha256": "e1a56b6545e1463364ac52a2af2ca57fdad716f7c16d3ec0c3786e398fd290aa",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-custom-shapes-inset.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-custom-shapes-inset.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-custom-shapes-inset.png",
+    "sha256": "9646a6e8ed2f8b7bf14cfc1efa42ca4ee6680f972a6f001484185f56441b5621",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-custom-shapes-side-highlights.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-custom-shapes-side-highlights.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-custom-shapes-side-highlights.png",
+    "sha256": "43ceb08db1280bbd035868a8d0f45be3cec3d89cc59496089a2b6538a9d0524c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-good-adjacent-bad-change.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-good-adjacent-bad-change.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-good-adjacent-bad-change.png",
+    "sha256": "57480498016d6af099b7863c4ad6b35bf7e54dc642e90bbf0502b2cbf21d6c47",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-good-change-bad-adjacent.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-good-change-bad-adjacent.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-good-change-bad-adjacent.png",
+    "sha256": "ce6a97e358aa71d19350b435c0275fe8caa91967891b960f2119d11fbe784b67",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-innerline.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-innerline.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-innerline.png",
+    "sha256": "cc87df603f0119d10cc27f828b9dc1e4b99fa19c88ea4ef5b7360c70494abc8d",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-offset-types.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-offset-types.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-offset-types.png",
+    "sha256": "2853a2f66eeb3b596705ba460359c5a1175308301e54c437af0b2eb61744134c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-select.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-select.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-select.png",
+    "sha256": "7c9f7d7cf1ce00271edc7b9e4b1417392039709652d81d3ace350b7d87c4155d",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-solid-border.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-solid-border.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-solid-border.svg",
+    "sha256": "1f71fe58cd5704bf065adb04b1aa2d28f058989ecbf59464b21ba8997a1e4da7",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-solid-outline.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-solid-outline.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-solid-outline.svg",
+    "sha256": "958c2962c158854623f69cd79e644dfca11ea5ddf250e72e65581869d262b45f",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-star-with-light-focus.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-star-with-light-focus.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-star-with-light-focus.svg",
+    "sha256": "6e995377a725d876cc58953bf3f1b0fdf31d52244f0e5fdda1bb0cd7de860da9",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-two-color-thick.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-two-color-thick.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-two-color-thick.png",
+    "sha256": "1cb6e8995433d90c2019d6174f830b81af594f077a25fcee3393a49bfd05aae4",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-two-color-thin.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-two-color-thin.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-two-color-thin.png",
+    "sha256": "3ea74fbe4a60b12215efb6a097602e1abbd51bc5834f6b3d7f9da05f37d41911",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-indicator-whole-star.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-indicator-whole-star.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-indicator-whole-star.svg",
+    "sha256": "227d882f72d46f04db6a0e0efabf7b16cc612cdc067e6dba4fbd7678f5d94ed7",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-inline-link-outline.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-inline-link-outline.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-inline-link-outline.png",
+    "sha256": "d2a8e0d35e05b6d1f664ad84571366cffc537cb56a6b21034859d63e3a5e309f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/focus-inline-link.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/focus-inline-link.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/focus-inline-link.png",
+    "sha256": "1c811cbcd8029e3c815ae65f53b56003c00d43737d2766c33152f1a0c9197378",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/graphics-contrast_pie-chart_fail.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/graphics-contrast_pie-chart_fail.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/graphics-contrast_pie-chart_fail.png",
+    "sha256": "be53e70cbabbcf26a40213aea8e040f2a17e9cc1bf182972ec91c5a9e01fc017",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/graphics-contrast_pie-chart_na.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/graphics-contrast_pie-chart_na.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/graphics-contrast_pie-chart_na.png",
+    "sha256": "cefff7499d1f3b5275f98c09765e86420a367f14a58364357eceb2f06f5a742c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/graphics-contrast_pie-chart_pass.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/graphics-contrast_pie-chart_pass.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/graphics-contrast_pie-chart_pass.png",
+    "sha256": "8690a25b7f0d83c561800a0b0f4259df9a4f8ff2d64c8e8f294a9a867bdda788",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/inactive-button.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/inactive-button.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/inactive-button.png",
+    "sha256": "96feac3052fcc27d776f1915d4737c0f63a31ce8a44c58167c7e3a56deca1e16",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "contrast-enhanced.html",
+      "contrast-minimum.html",
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/infographic-fail.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/infographic-fail.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/infographic-fail.png",
+    "sha256": "c00318ff6687715e6010b293bfdf1f6484dbd4caf3b2c48d95242dcb20251140",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/infographic-pass.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/infographic-pass.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/infographic-pass.png",
+    "sha256": "d8e8923a0162aa5196228c23afbbc3c5d7745413cb898dc196b8551a4b1a1e5a",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/link-text-default.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/link-text-default.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/link-text-default.png",
+    "sha256": "3115c07d196599d23b88397fd2e986e6465033e94de84a35f8ec9ba5f928c550",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/link-text-focus.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/link-text-focus.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/link-text-focus.png",
+    "sha256": "08b251b8baa19104bbbc0dc01f7075b18c0a72b35e568721640295d11e36bf69",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/minimal-button.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/minimal-button.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/minimal-button.png",
+    "sha256": "5293583401e181c63fce325f87b0f04beaac83bd60fb59bbf126b1decf500b55",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-background.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-background.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-background.png",
+    "sha256": "910bef1de59c02a22809a4b17bdb135d921f96ca5ae26ab77cc46b0f2c892886",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-border.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-border.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-border.png",
+    "sha256": "f1bb2e27ce533bdb1b3904589cdd5a82362efc849217ca5e5776c08e51e197b9",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-inner-border.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-inner-border.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-inner-border.png",
+    "sha256": "7345b8dc7099c54effdaafdfb47fcf8d57b305cb154e20c4ca5e95eefeba71a2",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-inner-outer.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-inner-outer.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-inner-outer.png",
+    "sha256": "bb5d5606bdf245ae62b5c31f5155a0f6caf6698dd341663512782eae94cc5cd0",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-inner-white.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-inner-white.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-inner-white.png",
+    "sha256": "04f20b723587d4470c452628636caec198139423027af3aadfb4cf4709c8bd66",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-inner.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-inner.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-inner.png",
+    "sha256": "ad41a5e5c4327020c3afdebe60bda41b531e00ea0c4e4b671d0ba49e03d64cc0",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-outer-green.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-outer-green.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-outer-green.png",
+    "sha256": "9d652ac7de0c0229244d7230df9c04e7fd7da1a8c93d1ba1c71e56f0599e6d27",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/ntc-focus-outer-yellow.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/ntc-focus-outer-yellow.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/ntc-focus-outer-yellow.png",
+    "sha256": "ceb426892407cfb51e1e5123c4f69fe1f40ba8a784069dd739173b407be282ff",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/path-based-gesture-1.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/path-based-gesture-1.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/path-based-gesture-1.png",
+    "sha256": "c1771523e6711f2da454f33cb4f1297bc13bfa9b473d5eaabf8fbceb8b325044",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "pointer-gestures.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/path-based-gesture-2.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/path-based-gesture-2.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/path-based-gesture-2.png",
+    "sha256": "8b4e45a29415d6fe991aa73d509b3b219af214476238e07daef0655136f9952f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "pointer-gestures.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/path-based-gesture-3.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/path-based-gesture-3.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/path-based-gesture-3.png",
+    "sha256": "8b4e45a29415d6fe991aa73d509b3b219af214476238e07daef0655136f9952f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "pointer-gestures.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/radio-custom.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/radio-custom.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/radio-custom.png",
+    "sha256": "f385b760dd091e63f9733e2058e4561de41b56fa75b2288e618dd6d5a0b5fa80",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/rich-text-editor-detail.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/rich-text-editor-detail.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/rich-text-editor-detail.png",
+    "sha256": "cccfb60d5679024ba6822d0bf271b3a5f080dfcfd94eebba67d9f2712cd7b732",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "label-in-name.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/simple-line-graph.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/simple-line-graph.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/simple-line-graph.png",
+    "sha256": "d86fbf36b3160a24fadf9bee74b7c816598ec92dfd977385eb5cbfecbe3765e2",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/single-space.gif",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/single-space.gif",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/single-space.gif",
+    "sha256": "51504fe20e828a125a83b7386beb1a383253e55b469810165a701cbbd4419840",
+    "mime_type": "image/gif",
+    "referenced_by": [
+      "visual-presentation.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/space-and-a-half.gif",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/space-and-a-half.gif",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/space-and-a-half.gif",
+    "sha256": "d1da69c3eeff9250981ac164036ee9c51052ae3dcee45fab0c9f8c9a9558eb53",
+    "mime_type": "image/gif",
+    "referenced_by": [
+      "visual-presentation.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/spacing_cutoff_fail_horizontal.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/spacing_cutoff_fail_horizontal.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/spacing_cutoff_fail_horizontal.png",
+    "sha256": "0c784f9ab4bbe9044b29e673a89ebe6611bc7e06d66d44645c4dc3133b1a22df",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "text-spacing.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/spacing_cutoff_fail_vertical.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/spacing_cutoff_fail_vertical.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/spacing_cutoff_fail_vertical.png",
+    "sha256": "76f346bedc9ae10e1459cee529ec73369581bb6714e6f22df1bcac4823a65aba",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "text-spacing.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/spacing_overlap_fail.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/spacing_overlap_fail.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/spacing_overlap_fail.png",
+    "sha256": "a840c10d3e3851a14049412e560a9ed2f97a50488894859f0e6405ba1019aa6c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "text-spacing.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/star-examples-fail.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/star-examples-fail.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/star-examples-fail.png",
+    "sha256": "fc98369cb7f6b96d4076d7b5d50bdfa9e9e1d00fa588ecaca2b567d465d1673f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/star-examples-pass.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/star-examples-pass.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/star-examples-pass.png",
+    "sha256": "2d9c8cb8a2d39702628a0adaa15b566ce3adc68a7396efad0b53fe682efecd9d",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-dropdown.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-dropdown.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-dropdown.svg",
+    "sha256": "bdf4ded3ea890bf11d71980ccd8f646156c75a0afcdcdac42756b4f0e15ecffd",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-large-small-clipping.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-large-small-clipping.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-large-small-clipping.svg",
+    "sha256": "ace5b9cd00caab18ee9f57867ea1e406ba605be767f3f2128945b18818d18f6a",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-large-small-touching.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-large-small-touching.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-large-small-touching.svg",
+    "sha256": "991fb15c5fcc4367d047b0176cff06769b1857e73c9399d8ff22b486c257f19b",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-size-basic.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-size-basic.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-size-basic.svg",
+    "sha256": "6c49cc6a5aa0b88b4c3322ea4e15c8047aaa1c677ec8122f38375fc5f02a0539",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-size-bounding-boxes.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-size-bounding-boxes.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-size-bounding-boxes.svg",
+    "sha256": "a9b789e30e2dedaf3ac76dba516e1053d62d8cad6e234c1e83f686fc34d3b699",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-size-skewed.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-size-skewed.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-size-skewed.svg",
+    "sha256": "a6035f58e20487f750417f9de0046fa5443542fa0b2481425099d2a3a70c4be2",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-size-undersized-rounded.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-size-undersized-rounded.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-size-undersized-rounded.svg",
+    "sha256": "e00f4a8ddbc3a902b454cbf40527e2ed4dc82d40474f01f1f8be6439696fb3b6",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-spacing-toolbar.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-spacing-toolbar.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-spacing-toolbar.svg",
+    "sha256": "c07aadbc3c99b0b527c6db2dea770b74243ae10aef2937dd3408d02dcfff5c74",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-text-buttons-single-row.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-text-buttons-single-row.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-text-buttons-single-row.svg",
+    "sha256": "7589b6bc239c7c3bb816bb5f13f6b4876a158652b2c31397a84ff41b15bab27f",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/target-text-buttons-two-rows.svg",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/target-text-buttons-two-rows.svg",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/target-text-buttons-two-rows.svg",
+    "sha256": "c895fb95fd5f537919835dd7f22cde9dfdfebddd2de49091af255a50f157c979",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/text-input-background-border.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/text-input-background-border.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/text-input-background-border.png",
+    "sha256": "d772f6d0c091bda40a98f98fbcb69fdb4a494ac2e8f9ce1e84888b22c96873e6",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/text-input-background.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/text-input-background.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/text-input-background.png",
+    "sha256": "5d12636e963610272ffe3db4663565719257dacaaba0825721c483d718831749",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/text-input-default.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/text-input-default.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/text-input-default.png",
+    "sha256": "19dd77c1ecfe4fe8d270ba4b12ef10f286201dcb3bfb05fc34750858807a9c5c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/text-input-focus.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/text-input-focus.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/text-input-focus.png",
+    "sha256": "94c0a5356fbba432c1cb5ba433ce5058884c3c3f53824f16fdb30380e58ba4b1",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/text-input-minimal.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/text-input-minimal.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/text-input-minimal.png",
+    "sha256": "94878a32d672914c752593d884649a770fcc4238bce4b11d7358b55c6465fa08",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "ja",
+    "relative_path": "img/toggle.png",
+    "source_url": "https://github.com/waic/wcag22/blob/4c9eeeec7f284a946e4dfa8df605d813e90e8589/understanding/img/toggle.png",
+    "published_url": "https://waic.jp/translations/WCAG22/Understanding/img/toggle.png",
+    "sha256": "77e5a20e1119384fc76325ab4e77d3cea0d40c9f30396a8e6b38d15280539a41",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/button-background.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/button-background.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/button-background.png",
+    "sha256": "dd676a8483bfd2e4c7cb5c6b678ddd5839897734778924caa6d23f4bfd28b3c9",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/button-focus-indicator.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/button-focus-indicator.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/button-focus-indicator.png",
+    "sha256": "da3e2c7dbdbbbcb11fc172adc1f82495ff99432f10ea823b1cd9070220cd4a62",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/button-pointer-below-tooltip.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/button-pointer-below-tooltip.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer-below-tooltip.png",
+    "sha256": "508a543781153a9c082d89af0e4be6e75cdbb7e1caeb5bf1858ff4f86e334311",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/button-pointer-on-tooltip.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/button-pointer-on-tooltip.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer-on-tooltip.png",
+    "sha256": "30df7b1bcc585b9d090c062965a608bbafaa797a282d30e0beef5f320568a0b7",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/button-pointer-tooltip.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/button-pointer-tooltip.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer-tooltip.png",
+    "sha256": "10b2ba0a260ea18d981fd3aea6c08975f93eeae26d3772dbcb902ccd0e249b09",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/button-pointer.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/button-pointer.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/button-pointer.png",
+    "sha256": "3fada3dbb0bf2565edc50be75fdefc656d01501bd19e5aa843a141ed9e9c910b",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "content-on-hover-or-focus.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/buttons-text-symbols.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/buttons-text-symbols.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/buttons-text-symbols.png",
+    "sha256": "e740086bb0b5ad813f08ff1c8ba43cc27bb57d9fe215ce245b1fd82ccd12282b",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/checkbox-example1.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/checkbox-example1.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/checkbox-example1.png",
+    "sha256": "64be6b07f94b2f7654427a9819907aa81aaadee8cc90aab421b2752208e0651c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/checkbox-example2.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/checkbox-example2.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/checkbox-example2.png",
+    "sha256": "d82abdd2b4730ac43e95868e066310a056863131b592dce1f29cf6b4719c6e00",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/checkbox-example3.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/checkbox-example3.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/checkbox-example3.png",
+    "sha256": "d210cbc90c94eeb35d6452951b8e48fb733ea934e8f9b2554611e74eada92092",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/checkbox-example4.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/checkbox-example4.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/checkbox-example4.png",
+    "sha256": "10424f3396b893852a165a911b9f43500a9a6972f15633a0a0b94a8d0155e02b",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/checkbox-example5.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/checkbox-example5.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/checkbox-example5.png",
+    "sha256": "1b0e1c6a4f38aa6d08746a3070660386e09fe5db036d768bf1b26298e1600a00",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/checkbox-purple.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/checkbox-purple.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/checkbox-purple.png",
+    "sha256": "a35184089eaaa615bed654de060ec12ea1a070cd301ee105818434180f850827",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/component-complex-both-unselected.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/component-complex-both-unselected.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/component-complex-both-unselected.png",
+    "sha256": "09c4cf6daff42798a055e0f185ee5ab47fbae4b8fe6d77587ce64fbdd8001b32",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/component-complex-both.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/component-complex-both.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/component-complex-both.png",
+    "sha256": "055ff5f772a6f8d6043f0cb8857833a8aba805b47f3d93b84d39ce0166f55c80",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/component-complex-sub.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/component-complex-sub.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/component-complex-sub.png",
+    "sha256": "8d5d7884a839a58798cb37ddb6b632649bc9188b790aed1b7558bb8ecde2c242",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/component-complex-whole.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/component-complex-whole.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/component-complex-whole.png",
+    "sha256": "bc3bee838327f7fe22377ba5588cb6bbef21d8567bf94571c156b67ac526ba13",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/contrast-currency-down.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/contrast-currency-down.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/contrast-currency-down.png",
+    "sha256": "8f9f482c4df8d86f3000298ef78c7f28413fa084233758b0b4f30726e976fd1e",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/contrast-gradient.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/contrast-gradient.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/contrast-gradient.png",
+    "sha256": "a0e2767dcfabd4448ddef4ae928fdca8be0c7edeb8870a37a0b700258ea89f7a",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/contrast-magnet.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/contrast-magnet.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/contrast-magnet.png",
+    "sha256": "395f885d0bde18d9fd88bbc9362e4e50a8525dae7b5159e0df766952de8e3b96",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/contrast-phone.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/contrast-phone.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/contrast-phone.png",
+    "sha256": "ca2321b30b0842f1444b666de126489b99882f8427bf5c3f605c9706c05b89fe",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/css-pixel-by-device.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/css-pixel-by-device.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/css-pixel-by-device.png",
+    "sha256": "806125c158d97aedbc0d571e8ff5b28086cca0d16c2fcc149d72353a15a343a3",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "reflow.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/double-space.gif",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/double-space.gif",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/double-space.gif",
+    "sha256": "027447c86a71237b516fd1d41ec48c1869a89dc90f856af0d21eb0fcaeb29440",
+    "mime_type": "image/gif",
+    "referenced_by": [
+      "visual-presentation.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/dropdown.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/dropdown.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/dropdown.png",
+    "sha256": "c5fc91a998366db68aede17f5701c28dc7b1440af0efe3cfdfd244efd23835b2",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/dropdown2.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/dropdown2.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/dropdown2.png",
+    "sha256": "9f867ea5876442030040dd31c2de30129d6c09bba4da40237edb6fe1ac6e72d4",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/dynamic-pie-chart.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/dynamic-pie-chart.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/dynamic-pie-chart.png",
+    "sha256": "eac5dd5a1310066498a5e97ad898e3efe4e5726d279b598495bda01475141b93",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-background-passing.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-background-passing.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-background-passing.png",
+    "sha256": "494b541d3773dec22aec5ca5cc5519b3b83f4990bde64995998dd7222345cfd7",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-background.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-background.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-background.png",
+    "sha256": "152a041133cea56a8732b57fc514930c3627c3b7b862e75bde018ef7591b646e",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-basic.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-basic.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-basic.png",
+    "sha256": "b372d5b70313e84cf93cad890b838b30246e98680302c43a7134955fc3e2a272",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-box-shadow-only.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-box-shadow-only.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-box-shadow-only.png",
+    "sha256": "238e61629f715b8ad7ead86c19364373b9c3f0929bf91fdb9c8d6dba67277dc9",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-box-shadow.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-box-shadow.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-box-shadow.png",
+    "sha256": "50a32630c95e9adea05da167fa2de81a2cf9ac57026e918a3b9a7d2f80e36812",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-browser-defaults-modified-background.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-browser-defaults-modified-background.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-browser-defaults-modified-background.png",
+    "sha256": "e1a56b6545e1463364ac52a2af2ca57fdad716f7c16d3ec0c3786e398fd290aa",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-custom-shapes-inset.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-custom-shapes-inset.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-custom-shapes-inset.png",
+    "sha256": "9646a6e8ed2f8b7bf14cfc1efa42ca4ee6680f972a6f001484185f56441b5621",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-custom-shapes-side-highlights.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-custom-shapes-side-highlights.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-custom-shapes-side-highlights.png",
+    "sha256": "43ceb08db1280bbd035868a8d0f45be3cec3d89cc59496089a2b6538a9d0524c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-good-adjacent-bad-change.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-good-adjacent-bad-change.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-good-adjacent-bad-change.png",
+    "sha256": "57480498016d6af099b7863c4ad6b35bf7e54dc642e90bbf0502b2cbf21d6c47",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-good-change-bad-adjacent.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-good-change-bad-adjacent.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-good-change-bad-adjacent.png",
+    "sha256": "ce6a97e358aa71d19350b435c0275fe8caa91967891b960f2119d11fbe784b67",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-innerline.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-innerline.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-innerline.png",
+    "sha256": "cc87df603f0119d10cc27f828b9dc1e4b99fa19c88ea4ef5b7360c70494abc8d",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-offset-types.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-offset-types.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-offset-types.png",
+    "sha256": "2853a2f66eeb3b596705ba460359c5a1175308301e54c437af0b2eb61744134c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-select.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-select.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-select.png",
+    "sha256": "7c9f7d7cf1ce00271edc7b9e4b1417392039709652d81d3ace350b7d87c4155d",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-solid-border.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-solid-border.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-solid-border.svg",
+    "sha256": "1f71fe58cd5704bf065adb04b1aa2d28f058989ecbf59464b21ba8997a1e4da7",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-solid-outline.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-solid-outline.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-solid-outline.svg",
+    "sha256": "958c2962c158854623f69cd79e644dfca11ea5ddf250e72e65581869d262b45f",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-star-with-light-focus.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-star-with-light-focus.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-star-with-light-focus.svg",
+    "sha256": "6e995377a725d876cc58953bf3f1b0fdf31d52244f0e5fdda1bb0cd7de860da9",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-two-color-thick.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-two-color-thick.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-two-color-thick.png",
+    "sha256": "1cb6e8995433d90c2019d6174f830b81af594f077a25fcee3393a49bfd05aae4",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-two-color-thin.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-two-color-thin.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-two-color-thin.png",
+    "sha256": "3ea74fbe4a60b12215efb6a097602e1abbd51bc5834f6b3d7f9da05f37d41911",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-indicator-whole-star.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-indicator-whole-star.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-indicator-whole-star.svg",
+    "sha256": "227d882f72d46f04db6a0e0efabf7b16cc612cdc067e6dba4fbd7678f5d94ed7",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-inline-link-outline.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-inline-link-outline.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-inline-link-outline.png",
+    "sha256": "d2a8e0d35e05b6d1f664ad84571366cffc537cb56a6b21034859d63e3a5e309f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/focus-inline-link.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/focus-inline-link.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/focus-inline-link.png",
+    "sha256": "1c811cbcd8029e3c815ae65f53b56003c00d43737d2766c33152f1a0c9197378",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "focus-appearance.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/graphics-contrast_pie-chart_fail.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/graphics-contrast_pie-chart_fail.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/graphics-contrast_pie-chart_fail.png",
+    "sha256": "be53e70cbabbcf26a40213aea8e040f2a17e9cc1bf182972ec91c5a9e01fc017",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/graphics-contrast_pie-chart_na.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/graphics-contrast_pie-chart_na.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/graphics-contrast_pie-chart_na.png",
+    "sha256": "cefff7499d1f3b5275f98c09765e86420a367f14a58364357eceb2f06f5a742c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/graphics-contrast_pie-chart_pass.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/graphics-contrast_pie-chart_pass.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/graphics-contrast_pie-chart_pass.png",
+    "sha256": "8690a25b7f0d83c561800a0b0f4259df9a4f8ff2d64c8e8f294a9a867bdda788",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/inactive-button.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/inactive-button.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/inactive-button.png",
+    "sha256": "96feac3052fcc27d776f1915d4737c0f63a31ce8a44c58167c7e3a56deca1e16",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "contrast-enhanced.html",
+      "contrast-minimum.html",
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/infographic-fail.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/infographic-fail.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/infographic-fail.png",
+    "sha256": "c00318ff6687715e6010b293bfdf1f6484dbd4caf3b2c48d95242dcb20251140",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/infographic-pass.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/infographic-pass.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/infographic-pass.png",
+    "sha256": "d8e8923a0162aa5196228c23afbbc3c5d7745413cb898dc196b8551a4b1a1e5a",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/link-text-default.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/link-text-default.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/link-text-default.png",
+    "sha256": "3115c07d196599d23b88397fd2e986e6465033e94de84a35f8ec9ba5f928c550",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/link-text-focus.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/link-text-focus.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/link-text-focus.png",
+    "sha256": "08b251b8baa19104bbbc0dc01f7075b18c0a72b35e568721640295d11e36bf69",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/minimal-button.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/minimal-button.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/minimal-button.png",
+    "sha256": "5293583401e181c63fce325f87b0f04beaac83bd60fb59bbf126b1decf500b55",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-background.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-background.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-background.png",
+    "sha256": "910bef1de59c02a22809a4b17bdb135d921f96ca5ae26ab77cc46b0f2c892886",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-border.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-border.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-border.png",
+    "sha256": "f1bb2e27ce533bdb1b3904589cdd5a82362efc849217ca5e5776c08e51e197b9",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-inner-border.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-inner-border.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-inner-border.png",
+    "sha256": "7345b8dc7099c54effdaafdfb47fcf8d57b305cb154e20c4ca5e95eefeba71a2",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-inner-outer.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-inner-outer.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-inner-outer.png",
+    "sha256": "bb5d5606bdf245ae62b5c31f5155a0f6caf6698dd341663512782eae94cc5cd0",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-inner-white.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-inner-white.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-inner-white.png",
+    "sha256": "04f20b723587d4470c452628636caec198139423027af3aadfb4cf4709c8bd66",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-inner.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-inner.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-inner.png",
+    "sha256": "ad41a5e5c4327020c3afdebe60bda41b531e00ea0c4e4b671d0ba49e03d64cc0",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-outer-green.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-outer-green.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-outer-green.png",
+    "sha256": "9d652ac7de0c0229244d7230df9c04e7fd7da1a8c93d1ba1c71e56f0599e6d27",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/ntc-focus-outer-yellow.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/ntc-focus-outer-yellow.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/ntc-focus-outer-yellow.png",
+    "sha256": "ceb426892407cfb51e1e5123c4f69fe1f40ba8a784069dd739173b407be282ff",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/path-based-gesture-1.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/path-based-gesture-1.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/path-based-gesture-1.png",
+    "sha256": "c1771523e6711f2da454f33cb4f1297bc13bfa9b473d5eaabf8fbceb8b325044",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "pointer-gestures.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/path-based-gesture-2.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/path-based-gesture-2.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/path-based-gesture-2.png",
+    "sha256": "8b4e45a29415d6fe991aa73d509b3b219af214476238e07daef0655136f9952f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "pointer-gestures.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/path-based-gesture-3.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/path-based-gesture-3.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/path-based-gesture-3.png",
+    "sha256": "8b4e45a29415d6fe991aa73d509b3b219af214476238e07daef0655136f9952f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "pointer-gestures.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/radio-custom.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/radio-custom.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/radio-custom.png",
+    "sha256": "f385b760dd091e63f9733e2058e4561de41b56fa75b2288e618dd6d5a0b5fa80",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/rich-text-editor-detail.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/rich-text-editor-detail.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/rich-text-editor-detail.png",
+    "sha256": "cccfb60d5679024ba6822d0bf271b3a5f080dfcfd94eebba67d9f2712cd7b732",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "label-in-name.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/simple-line-graph.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/simple-line-graph.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/simple-line-graph.png",
+    "sha256": "d86fbf36b3160a24fadf9bee74b7c816598ec92dfd977385eb5cbfecbe3765e2",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/single-space.gif",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/single-space.gif",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/single-space.gif",
+    "sha256": "51504fe20e828a125a83b7386beb1a383253e55b469810165a701cbbd4419840",
+    "mime_type": "image/gif",
+    "referenced_by": [
+      "visual-presentation.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/space-and-a-half.gif",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/space-and-a-half.gif",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/space-and-a-half.gif",
+    "sha256": "d1da69c3eeff9250981ac164036ee9c51052ae3dcee45fab0c9f8c9a9558eb53",
+    "mime_type": "image/gif",
+    "referenced_by": [
+      "visual-presentation.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/spacing_cutoff_fail_horizontal.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/spacing_cutoff_fail_horizontal.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/spacing_cutoff_fail_horizontal.png",
+    "sha256": "0c784f9ab4bbe9044b29e673a89ebe6611bc7e06d66d44645c4dc3133b1a22df",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "text-spacing.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/spacing_cutoff_fail_vertical.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/spacing_cutoff_fail_vertical.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/spacing_cutoff_fail_vertical.png",
+    "sha256": "76f346bedc9ae10e1459cee529ec73369581bb6714e6f22df1bcac4823a65aba",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "text-spacing.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/spacing_overlap_fail.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/spacing_overlap_fail.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/spacing_overlap_fail.png",
+    "sha256": "a840c10d3e3851a14049412e560a9ed2f97a50488894859f0e6405ba1019aa6c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "text-spacing.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/star-examples-fail.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/star-examples-fail.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/star-examples-fail.png",
+    "sha256": "fc98369cb7f6b96d4076d7b5d50bdfa9e9e1d00fa588ecaca2b567d465d1673f",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/star-examples-pass.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/star-examples-pass.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/star-examples-pass.png",
+    "sha256": "2d9c8cb8a2d39702628a0adaa15b566ce3adc68a7396efad0b53fe682efecd9d",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-dropdown.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-dropdown.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-dropdown.svg",
+    "sha256": "bdf4ded3ea890bf11d71980ccd8f646156c75a0afcdcdac42756b4f0e15ecffd",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-large-small-clipping.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-large-small-clipping.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-large-small-clipping.svg",
+    "sha256": "ace5b9cd00caab18ee9f57867ea1e406ba605be767f3f2128945b18818d18f6a",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-large-small-touching.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-large-small-touching.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-large-small-touching.svg",
+    "sha256": "991fb15c5fcc4367d047b0176cff06769b1857e73c9399d8ff22b486c257f19b",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-size-basic.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-size-basic.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-size-basic.svg",
+    "sha256": "6c49cc6a5aa0b88b4c3322ea4e15c8047aaa1c677ec8122f38375fc5f02a0539",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-size-bounding-boxes.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-size-bounding-boxes.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-size-bounding-boxes.svg",
+    "sha256": "a9b789e30e2dedaf3ac76dba516e1053d62d8cad6e234c1e83f686fc34d3b699",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-size-skewed.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-size-skewed.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-size-skewed.svg",
+    "sha256": "a6035f58e20487f750417f9de0046fa5443542fa0b2481425099d2a3a70c4be2",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-size-undersized-rounded.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-size-undersized-rounded.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-size-undersized-rounded.svg",
+    "sha256": "e00f4a8ddbc3a902b454cbf40527e2ed4dc82d40474f01f1f8be6439696fb3b6",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-spacing-toolbar.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-spacing-toolbar.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-spacing-toolbar.svg",
+    "sha256": "c07aadbc3c99b0b527c6db2dea770b74243ae10aef2937dd3408d02dcfff5c74",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-text-buttons-single-row.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-text-buttons-single-row.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-text-buttons-single-row.svg",
+    "sha256": "7589b6bc239c7c3bb816bb5f13f6b4876a158652b2c31397a84ff41b15bab27f",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/target-text-buttons-two-rows.svg",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/target-text-buttons-two-rows.svg",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/target-text-buttons-two-rows.svg",
+    "sha256": "c895fb95fd5f537919835dd7f22cde9dfdfebddd2de49091af255a50f157c979",
+    "mime_type": "image/svg+xml",
+    "referenced_by": [
+      "target-size-minimum.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/text-input-background-border.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/text-input-background-border.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/text-input-background-border.png",
+    "sha256": "d772f6d0c091bda40a98f98fbcb69fdb4a494ac2e8f9ce1e84888b22c96873e6",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/text-input-background.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/text-input-background.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/text-input-background.png",
+    "sha256": "5d12636e963610272ffe3db4663565719257dacaaba0825721c483d718831749",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/text-input-default.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/text-input-default.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/text-input-default.png",
+    "sha256": "19dd77c1ecfe4fe8d270ba4b12ef10f286201dcb3bfb05fc34750858807a9c5c",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/text-input-focus.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/text-input-focus.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/text-input-focus.png",
+    "sha256": "94c0a5356fbba432c1cb5ba433ce5058884c3c3f53824f16fdb30380e58ba4b1",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/text-input-minimal.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/text-input-minimal.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/text-input-minimal.png",
+    "sha256": "94878a32d672914c752593d884649a770fcc4238bce4b11d7358b55c6465fa08",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  },
+  {
+    "language": "en",
+    "relative_path": "img/toggle.png",
+    "source_url": "https://github.com/waic/w3c-wcag/blob/9b5c06adee5cb4a1ad403a410165140b6d77b24c/wcag22/understanding/img/toggle.png",
+    "published_url": "https://www.w3.org/WAI/WCAG22/Understanding/img/toggle.png",
+    "sha256": "77e5a20e1119384fc76325ab4e77d3cea0d40c9f30396a8e6b38d15280539a41",
+    "mime_type": "image/png",
+    "referenced_by": [
+      "non-text-contrast.html"
+    ]
+  }
+]
