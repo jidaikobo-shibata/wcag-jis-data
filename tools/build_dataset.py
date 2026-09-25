@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the versioned reference dataset from pinned public sources and a local workbook."""
+"""Build the versioned reference dataset from pinned public inputs."""
 
 from __future__ import annotations
 
@@ -8,7 +8,6 @@ import csv
 import hashlib
 import json
 import re
-from datetime import date
 from pathlib import Path
 from urllib.request import urlopen
 
@@ -17,6 +16,8 @@ from openpyxl import load_workbook
 
 
 ROOT = Path(__file__).resolve().parents[1]
+PUBLIC_INPUT = ROOT / "inputs" / "criteria-public.json"
+SNAPSHOT_DATE = "2026-09-25"
 SOURCE_FILES = {
     "wcag22.json": (
         "https://www.w3.org/WAI/WCAG22/wcag.json",
@@ -179,11 +180,36 @@ def workbook_rows(path: Path) -> list[dict]:
     return rows
 
 
-def build(source_dir: Path, workbook_path: Path) -> None:
-    workbook_data = workbook_path.read_bytes()
-    if digest(workbook_data) != WORKBOOK_HASH:
+def export_public_input(workbook_path: Path, target: Path) -> None:
+    if digest(workbook_path.read_bytes()) != WORKBOOK_HASH:
         raise ValueError("criteria.xlsx differs from the reviewed copy")
     rows = workbook_rows(workbook_path)
+    write_json(target, {"source_workbook_sha256": WORKBOOK_HASH,
+                        "columns": [column[0] for column in WORKBOOK_COLUMNS],
+                        "rows": rows})
+
+
+def public_rows(path: Path) -> list[dict]:
+    seed = json.loads(path.read_text(encoding="utf-8"))
+    if set(seed) != {"source_workbook_sha256", "columns", "rows"}:
+        raise ValueError("Public input contains unexpected fields")
+    if seed["source_workbook_sha256"] != WORKBOOK_HASH:
+        raise ValueError("Public input source hash differs")
+    if seed["columns"] != [column[0] for column in WORKBOOK_COLUMNS]:
+        raise ValueError("Public input columns differ")
+    rows = seed["rows"]
+    if len(rows) != 117 or len({row["number"] for row in rows}) != 117:
+        raise ValueError("Public input must contain 117 unique rows")
+    if any(set(row) != {"row", "number", "raw_number", "labels"} or
+           len(row["labels"]) != len(WORKBOOK_COLUMNS) or
+           normalized_id(row["raw_number"]) != row["number"] for row in rows):
+        raise ValueError("Public input row structure differs")
+    return rows
+
+
+def build(source_dir: Path, input_path: Path = PUBLIC_INPUT,
+          output_dir: Path | None = None) -> None:
+    rows = public_rows(input_path)
     wcag22 = json.loads(source_bytes(source_dir, "wcag22.json"))
     wcag21 = json.loads(source_bytes(source_dir, "wcag21.json"))
     en = BeautifulSoup(source_bytes(source_dir, "wcag22-en.html"), "lxml")
@@ -213,7 +239,9 @@ def build(source_dir: Path, workbook_path: Path) -> None:
          "status": "参考訳。正式版はW3Cの英語版"},
         {"id": "criteria-workbook", "title": "達成基準名称集（手元の入力資料）",
          "publisher": "未確認", "file_name": "criteria.xlsx", "sha256": WORKBOOK_HASH,
-         "retrieved": "2026-09-25", "publication_status": "private_input; provenance_unverified"},
+         "retrieved": "2026-09-25", "publication_status": "private_input; provenance_unverified",
+         "public_extract_file": "inputs/criteria-public.json",
+         "public_extract_sha256": digest(input_path.read_bytes())},
         {"id": "waic-jis2016-guide", "title": "JIS X 8341-3:2016 解説", "publisher": "WAIC",
          "url": "https://waic.jp/docs/jis2016/understanding/",
          "note": "JIS X 8341-3:2016 と WCAG 2.0 の一致規格という関係の根拠"},
@@ -357,7 +385,7 @@ def build(source_dir: Path, workbook_path: Path) -> None:
         if record["item_key"] not in item_keys:
             raise ValueError(f"Broken item reference: {record['item_key']}")
 
-    out = ROOT / "data"
+    out = output_dir or ROOT / "data"
     for filename, value in [
         ("sources.json", sources), ("items.json", items), ("names.json", names),
         ("texts.json", texts), ("relations.json", relations),
@@ -365,7 +393,7 @@ def build(source_dir: Path, workbook_path: Path) -> None:
         write_json(out / filename, value)
     write_catalog(out / "catalog.csv", rows, items, names)
     write_json(out / "manifest.json", {
-        "dataset_version": "0.2.0", "generated_on": date.today().isoformat(),
+        "dataset_version": "0.2.0", "generated_on": SNAPSHOT_DATE,
         "status": "draft_local; not_reviewed_for_public_release",
         "counts": {"workbook_rows": len(rows), "items": len(items), "names": len(names),
                    "texts": len(texts), "relations": len(relations)},
@@ -377,12 +405,19 @@ def build(source_dir: Path, workbook_path: Path) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--source-dir", type=Path, default=ROOT / ".cache")
+    parser.add_argument("--input", type=Path, default=PUBLIC_INPUT)
+    parser.add_argument("--output-dir", type=Path, default=ROOT / "data")
+    parser.add_argument("--export-public-input", action="store_true",
+                        help="extract only approved columns from local criteria.xlsx")
     parser.add_argument("--criteria", type=Path, default=ROOT / "criteria.xlsx")
     parser.add_argument("--fetch", action="store_true", help="download pinned official sources into source-dir")
     args = parser.parse_args()
+    if args.export_public_input:
+        export_public_input(args.criteria, args.input)
+        return
     if args.fetch:
         fetch_sources(args.source_dir)
-    build(args.source_dir, args.criteria)
+    build(args.source_dir, args.input, args.output_dir)
 
 
 if __name__ == "__main__":

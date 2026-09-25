@@ -14,9 +14,9 @@
 
 ## 再取得と検証
 
-一時キャッシュの `.cache/waic-wcag22` と `.cache/waic-w3c-wcag` に、`manifest.json` に記録したコミットをそれぞれチェックアウトしてから実行します。現在の取り込みスクリプトはコミットIDを固定し、違う版を自動で混ぜません。版を更新するときは日英の対応と利用条件を再確認してください。
+`tools/maintain.py fetch` で `.cache/waic-wcag22` と `.cache/waic-w3c-wcag` に記録済みコミットを取得できます。既存キャッシュが別のコミットや変更を含む場合は停止します。版を更新するときは日英の対応と利用条件を再確認してください。
 
 ```bash
-python3 tools/import_understanding.py
-python3 tools/validate_understanding.py
+python3 tools/maintain.py fetch
+python3 tools/maintain.py check
 ```

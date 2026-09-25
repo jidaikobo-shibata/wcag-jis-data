@@ -46,7 +46,9 @@
     "file_name": "criteria.xlsx",
     "sha256": "dde704f349397cb224a33d5bf703a73d6318d2ce209d828edc7a643671c20d4b",
     "retrieved": "2026-09-25",
-    "publication_status": "private_input; provenance_unverified"
+    "publication_status": "private_input; provenance_unverified",
+    "public_extract_file": "inputs/criteria-public.json",
+    "public_extract_sha256": "4416545c72f6a36e14bf61404d12d0d45cecf50b029b1a0b11a518b52deeb78b"
   },
   {
     "id": "waic-jis2016-guide",

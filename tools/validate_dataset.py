@@ -4,12 +4,14 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import json
 from collections import Counter
 from pathlib import Path
 
 
-DATA = Path(__file__).resolve().parents[1] / "data"
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "data"
 
 
 def read(name: str):
@@ -29,6 +31,11 @@ def main() -> None:
     source_ids = {source["id"] for source in sources}
     item_keys = {item["key"] for item in items}
     require(len(source_ids) == len(sources), "Duplicate source IDs")
+    public_input = ROOT / "inputs" / "criteria-public.json"
+    extract = next(source for source in sources if source["id"] == "criteria-workbook")
+    require(extract["public_extract_file"] == "inputs/criteria-public.json" and
+            hashlib.sha256(public_input.read_bytes()).hexdigest() ==
+            extract["public_extract_sha256"], "Public input checksum differs")
     require(len(item_keys) == len(items), "Duplicate item keys")
     require(len(items) == 378 and len(names) == 914 and len(texts) == 329,
             "Dataset counts differ from the reviewed snapshot")

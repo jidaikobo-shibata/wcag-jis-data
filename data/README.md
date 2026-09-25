@@ -1,6 +1,6 @@
 # データの読み方
 
-このディレクトリは、2026-09-25に取得した公式資料と、手元の `criteria.xlsx` から生成したドラフトです。[manifest.json](manifest.json)に件数を記録しています。原則・ガイドライン・達成基準・適合要件の117項目を、[catalog.csv](catalog.csv)で一覧できます。CSVの空欄の理由は `names.json` の `missing_marker` を参照してください。
+このディレクトリは、2026-09-25に取得した公式資料と、手元の資料から公開可能な列だけを抽出した `inputs/criteria-public.json` から生成したドラフトです。[manifest.json](manifest.json)に件数を記録しています。原則・ガイドライン・達成基準・適合要件の117項目を、[catalog.csv](catalog.csv)で一覧できます。CSVの空欄の理由は `names.json` の `missing_marker` を参照してください。
 
 | ファイル | 内容 |
 | --- | --- |
@@ -11,7 +11,7 @@
 | `relations.json` | 番号を介した版間・JISとの対応。本文の同一性を意味しない |
 | `catalog.csv` | Excelの117項目を見渡すための表 |
 
-WCAG 2.2解説書の日英HTMLと画像は[understanding/README.md](understanding/README.md)を参照してください。規格本文の`texts.json`とは別の、参考資料のスナップショットです。
+WCAG 2.2解説書の日英HTMLと画像URIは[understanding/README.md](understanding/README.md)を参照してください。規格本文の`texts.json`とは別の、参考資料のスナップショットです。
 
 ## 収録範囲
 
@@ -41,4 +41,4 @@ python3 tools/build_dataset.py --fetch
 python3 tools/validate_dataset.py
 ```
 
-手元の `criteria.xlsx` が必要です。`--fetch` で取得する公式資料はGitから除外された `.cache/` に保存されます。
+通常の再生成には `criteria.xlsx` は不要です。`--fetch` で取得する公式資料はGitから除外された `.cache/` に保存されます。規格本体と解説書をまとめて扱う場合は、ルートREADMEの `tools/maintain.py` を使ってください。

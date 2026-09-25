@@ -2,5 +2,6 @@
 /icl.xlsx
 /.cache/
 /.codex-private/
+/.venv/
 __pycache__/
 .~lock.*#

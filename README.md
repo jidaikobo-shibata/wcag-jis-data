@@ -4,12 +4,34 @@ WCAGとJIS X 8341-3を版ごとに参照し、日本語名称の変遷を追え�
 
 現在は[設計案](docs/dataset-proposal.md)に基づく最初のデータ本体を収録しています。[データの読み方](data/README.md)と[117項目の一覧](data/catalog.csv)から確認できます。個々のウェブページに対する判定規則は収録していません。
 
+## 維持するための手順
+
+Python 3とGitを使います。初回だけ仮想環境に依存ライブラリを入れます。
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+```
+
+公開済みの名称だけを含む `inputs/criteria-public.json` を入力に使います。手元の `criteria.xlsx` は通常の再生成に不要です。次のコマンドは、規格資料と解説書リポジトリを記録済みの版で取得し、全データを一時ディレクトリに再生成して、保存済みのファイルとバイト単位で比較します。
+
+```bash
+.venv/bin/python tools/maintain.py fetch
+.venv/bin/python tools/maintain.py check
+```
+
+意図的にデータを再生成するときは `rebuild` を使います。取得元や入力の版を更新する場合は、変更内容と利用条件を確認したうえで、スクリプト内のコミットID・ハッシュを更新してください。自動的に最新版へ追従する処理はありません。
+
+```bash
+.venv/bin/python tools/maintain.py rebuild
+```
+
 ## 手元の入力資料
 
 - `criteria.xlsx`：英語名、JIS X 8341-3:2016での名称、WCAG各版の訳語などを比較する手元の資料
 - `icl.xlsx`：確認条件と検査項目を含む作業用テンプレート
 
-これらはGitの追跡対象から除外しています。出典と公開可否を確認するまで、内容をそのまま公開データとして扱いません。
+これらはGitの追跡対象から除外しています。出典と公開可否を確認するまで、内容をそのまま公開データとして扱いません。公開用の名称入力を作り直す場合だけ、`tools/build_dataset.py --export-public-input` を使用し、差分に未公開の列が含まれないことを確認します。
 
 ## データ本体
 

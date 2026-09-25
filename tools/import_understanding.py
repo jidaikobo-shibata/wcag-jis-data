@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import hashlib
 import json
 import mimetypes
@@ -10,7 +11,6 @@ import shutil
 import subprocess
 import tempfile
 from collections import defaultdict
-from datetime import date
 from pathlib import Path, PurePosixPath
 
 from bs4 import BeautifulSoup
@@ -18,6 +18,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "understanding" / "wcag22"
+SNAPSHOT_DATE = "2026-09-25"
 REPOSITORIES = {
     "ja": {
         "name": "waic/wcag22",
@@ -39,6 +40,28 @@ REPOSITORIES = {
 }
 
 
+def fetch_repositories(cache: Path | None = None) -> None:
+    """Create missing cache repositories at their reviewed commits."""
+    cache = cache or ROOT / ".cache"
+    cache.mkdir(parents=True, exist_ok=True)
+    for spec in REPOSITORIES.values():
+        target = cache / spec["directory"].name
+        if target.exists():
+            checked_repository(spec, target)
+            continue
+        with tempfile.TemporaryDirectory(prefix="understanding-source-", dir=cache) as temporary:
+            clone = Path(temporary) / "repo"
+            url = f"https://github.com/{spec['name']}.git"
+            subprocess.run(["git", "clone", "--filter=blob:none", "--no-checkout",
+                            "--depth=1", url, str(clone)], check=True)
+            subprocess.run(["git", "-C", str(clone), "fetch", "--depth=1",
+                            "origin", spec["commit"]], check=True)
+            subprocess.run(["git", "-C", str(clone), "checkout", "--detach",
+                            spec["commit"]], check=True)
+            clone.rename(target)
+        checked_repository(spec, target)
+
+
 def digest(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
@@ -47,8 +70,8 @@ def write_json(path: Path, value: object) -> None:
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def checked_repository(spec: dict) -> Path:
-    repo = spec["directory"]
+def checked_repository(spec: dict, repo: Path | None = None) -> Path:
+    repo = repo or spec["directory"]
     if not repo.is_dir():
         raise ValueError(f"Repository is missing: {repo}")
     commit = subprocess.check_output(
@@ -74,7 +97,7 @@ def referenced_image(src: str) -> str | None:
     return src
 
 
-def import_documents(output: Path) -> None:
+def import_documents(output: Path = OUTPUT) -> None:
     sources = {language: checked_repository(spec) for language, spec in REPOSITORIES.items()}
     output.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix="understanding-build-", dir=output.parent) as temporary:
@@ -153,7 +176,7 @@ def build_documents(output: Path, sources: dict[str, Path]) -> None:
     write_json(output / "manifest.json", {
         "collection": "WCAG 2.2 Understanding",
         "status": "draft_local; public_release_review_pending",
-        "retrieved_on": date.today().isoformat(),
+        "retrieved_on": SNAPSHOT_DATE,
         "sources": [
             {key: spec[key] for key in ("name", "commit", "subdir", "published_base", "license_url")}
             | {"language": language}
@@ -173,6 +196,12 @@ def build_documents(output: Path, sources: dict[str, Path]) -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--fetch", action="store_true",
+                        help="clone missing source repositories at pinned commits")
+    args = parser.parse_args()
+    if args.fetch:
+        fetch_repositories()
     import_documents(OUTPUT)
 
 
